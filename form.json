@@ -1,144 +1,111 @@
 {
     "tia":{
-        "Albania":"<ul>Tirana International Airport Nënë Tereza (TIA)</ul> <li>form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
+        "Albania":"<ul>Tirana International Airport Nënë Tereza (TIA)</ul><li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
     },
-    "vie":{
-        "Austria":"<a href='https://www.viennaairport.com'> Vienna International Airport (VIE)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/48d2116d37/vienna/' data-label_1='VIENNA' data-label_2='WEATHER' data-theme='dark' >VIENNA WEATHER</a>"
-    },
-    "gyd":{
-        "Azerbaijan":"<a href='http://www.airport.az'> Baku Airport (GYD)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/40d4149d87/baku/' data-label_1='BAKU' data-label_2='WEATHER' data-theme='dark' >BAKU WEATHER</a>"
+    "szg":{
+        "Austria":"<ul>Salzburg International Airport (SZG)</ul><li>Form is required to be distributed: YES</li><li>Specifics: Austrian Covid Form on SZG flights( will be provided by the GH to the crew) and from PAX coming from Bosnia, Serbia and North Macedonia the Public Health Passenger Locator Form is required</li><li>Name of the form: Public Health Passenger Locator Form and Covid form</li><li>Collection by Crew: NO</li>"
     },
     "bru":{
-        "Belgium":"<a href='https://www.brusselsairport.be/'> Brussels Airport (BRU)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/50d854d35/brussels/' data-label_1='BRUSSELS' data-label_2='WEATHER' data-theme='dark' >BRUSSELS WEATHER</a>"
+        "Belgium":"<ul>Brussels Airport (BRU)</ul><li>Form is required to be distributed: YES - destribution for those who did not fill in online as backup process. Otherwise should be online</li><li>Specifics: Only for Belgium, available only in english (PAX who does not process the form should be denied boarding)</li><li>Name of the form: Belgium Passenger Locator Form</li><li>Collection by Crew: NO (ask ramp agent for confirmation)</li>"
     },
     "crl":{
-        "Belgium":"<a href='http://www.charleroi-airport.com'> Brussels Charleroi Airport (CRL)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/50d854d35/brussels/' data-label_1='BRUSSELS' data-label_2='WEATHER' data-theme='dark' >BRUSSELS WEATHER</a>"
-    },
-    "sjj":{
-        "Bosnia and Herzegovina":"<a href='http://www.sarajevo-airport.ba'> Sarajevo International Airport (SJJ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/43d8618d41/sarajevo/' data-label_1='SARAJEVO' data-label_2='WEATHER' data-theme='dark' >SARAJEVO WEATHER</a>"
-    },
-    "tzl":{
-        "Bosnia and Herzegovina":"<a href='http://tuzla-airport.ba/'> Tuzla Airport (TZL)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/44d5418d67/tuzla/' data-label_1='TUZLA' data-label_2='WEATHER' data-theme='dark' >TUZLA WEATHER</a>"
+        "Belgium":"Brussels Charleroi Airport (CRL)</ul><li>Form is required to be distributed: YES - destribution for those who did not fill in online as backup process. Otherwise should be online</li><li>Specifics: Only for Belgium, available only in english (PAX who does not process the form should be denied boarding)</li><li>Name of the form: Belgium Passenger Locator Form</li><li>Collection by Crew: NO (ask ramp agent for confirmation)</li>"
     },
     "boj":{
-        "Bulgaria":"<a href='https://burgas-airport.bg/'> Bourgas Airport (BOJ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/42d5027d46/burgas/' data-label_1='BOURGAS' data-label_2='WEATHER' data-theme='dark' >BOURGAS WEATHER</a>"
+        "Bulgaria":"<ul>Bourgas Airport (BOJ)</ul><li>Form is required to be distributed: Flights arriving from UK, Sweeden, Portugal, Belgium: NO </br> All other countries: YES</li><li>Specifics: Form shall be destributed to PAX who are not going under quarantine upon arrival</li><li>Name of the form: PAX data declaration</li><li>Collection by Crew: NO</li>"
     },
     "sof":{
-        "Bulgaria":"<a href='http://www.sofia-airport.bg/'> Sofia Airport - Terminal 1 (SOF)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/42d7023d32/sofia/' data-label_1='SOFIA' data-label_2='WEATHER' data-theme='dark' >SOFIA WEATHER</a>"
+        "Bulgaria":"<ul>Sofia Airport - Terminal 1 (SOF)</ul><li>Form is required to be distributed: Flights arriving from UK, Sweeden, Portugal, Belgium: NO </br> All other countries: YES</li><li>Specifics: Form shall be destributed to PAX who are not going under quarantine upon arrival</li><li>Name of the form: PAX data declaration</li><li>Collection by Crew: NO</li>"
     },
     "var":{
-        "Bulgaria":"<a href='http://www.varna-airport.bg'> Varna Airport (VAR)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/43d2127d91/varna/' data-label_1='VARNA' data-label_2='WEATHER' data-theme='dark' >VARNA WEATHER</a>"
+        "Bulgaria":"<ul> Varna Airport (VAR)</ul> <li>Form is required to be distributed: Flights arriving from UK, Sweeden, Portugal, Belgium: NO </br> All other countries: YES</li><li>Specifics: Form shall be destributed to PAX who are not going under quarantine upon arrival</li><li>Name of the form: PAX data declaration</li><li>Collection by Crew: NO</li>"
     },
     "osi":{
-        "Croatia":"<a href='http://www.osijek-airport.hr/'> Osijek (OSI)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/45d5518d70/osijek/' data-label_1='OSIJEK' data-label_2='WEATHER' data-theme='dark' >OSIJEK WEATHER</a>"
+        "Croatia":"<ul> Osijek (OSI)</ul><li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
     },
     "spu":{
-        "Croatia":"<a href='http://www.split-airport.hr'> Split Airport (SPU)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/43d5116d44/split/' data-label_1='SPLIT' data-label_2='WEATHER' data-theme='dark' >SPLIT WEATHER</a>"
+        "Croatia":"<ul> Split Airport (SPU)</ul><li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
     },
     "lca":{
-        "Cyprus":"<a href='http://www.hermesairports.com'> Larnaca Airport (LCA)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/34d9033d62/larnaca/' data-label_1='LARNACA' data-label_2='WEATHER' data-theme='dark' >LARNACA WEATHER</a>"
-    },
-    "brq":{
-        "Czech Republic":"<a href='http://www.brno-airport.cz'> Brno Airport (BRQ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/49d2016d61/brno/' data-label_1='BRNO' data-label_2='WEATHER' data-theme='dark' >BRNO WEATHER</a>"
-    },
-    "prg":{
-        "Czech Republic":"<a href='https://www.prg.aero/en#/'> Prague Airport (PRG)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/50d0814d44/prague/' data-label_1='PRAGUE' data-label_2='WEATHER' data-theme='dark' >PRAGUE WEATHER</a>"
-    },
-    "bll":{
-        "Denmark":"<a href='https://www.bll.dk/da-dk'> Billund Airport (BLL)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/55d739d11/billund/' data-label_1='BILLUND' data-label_2='WEATHER' data-theme='dark' >BILLUND WEATHER</a>"
-    },
-    "cph":{
-        "Denmark":"<a href='https://www.cph.dk/en/'> Copenhagen Airport (CPH)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/55d6812d57/copenhagen/' data-label_1='COPENHAGEN' data-label_2='WEATHER' data-theme='dark' >COPENHAGEN WEATHER</a>"
-    },
-    "tll":{
-        "Estonia":"<a href='https://www.tallinn-airport.ee/en/'> Tallinn Airport (TLL)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/59d4424d75/tallinn/' data-label_1='TALLINN' data-label_2='WEATHER' data-theme='dark' >TALLINN WEATHER</a>"
+        "Cyprus":"<ul> Larnaca Airport (LCA)</ul> <li>Form is required to be distributed: NO(Online)</li><li>Specifics: All PAX travelling to Cyprus must have Cyprus Flight Pass compleated </li><li>Name of the form: Cyprus Flight Pass</li><li>Collection by Crew: NO</li>"
     },
     "tku":{
-        "Finland":"<a href='https://www.finavia.fi/en'> Turku Airport (TKU)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/60d4522d27/turku/' data-label_1='TURKU' data-label_2='WEATHER' data-theme='dark' >TURKU WEATHER</a>"
+        "Finland":"<ul> Turku Airport (TKU)</ul> <li>Form is required to be distributed: NO</li><li>Specifics: N/A</li><li>Name of the form: N/A</li><li>Collection by Crew: NO</li>"
     },
     "mlh":{
-        "France":"<a href='https://www.euroairport.com/en/'> Mulhouse-Freiburg Airport (MLH)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/47d567d59/basel/' data-label_1='BASEL' data-label_2='WEATHER' data-theme='dark' >BASEL WEATHER</a>"   
+        "France":"<ul> Mulhouse-Freiburg Airport (MLH)</ul> <li>Form is required to be distributed: NO</li><li>Specifics: N/A</li><li>Name of the form: From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li>Collection by Crew: NO</li>"   
     },
     "bod":{
-        "France":"<a href='https://www.bordeaux.aeroport.fr/en'> Bordeaux–Mérignac Airport (BOD)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/44d84n0d58/bordeaux/' data-label_1='BORDEAUX' data-label_2='WEATHER' data-theme='dark' >BORDEAUX WEATHER</a>"
+        "France":"<ul> Bordeaux–Mérignac Airport (BOD)</ul> <li>Form is required to be distributed: NO</li><li>Specifics: N/A</li><li>Name of the form: From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li>Collection by Crew: NO</li>"
     },
     "gnb":{
-        "France":"<a href='http://www.grenoble-airport.com'> Grenoble Airport (GNB)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/45d195d72/grenoble/' data-label_1='GRENOBLE' data-label_2='WEATHER' data-theme='dark' >GRENOBLE WEATHER</a>"
+        "France":"<ul> Grenoble Airport (GNB)</ul> <li>Form is required to be distributed: NO</li><li>Specifics: N/A</li><li>Name of the form: From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li>Collection by Crew: NO</li>"
     },
     "lys":{
-        "France":"<a href='https://www.lyonaeroports.com/'> Lyon (Saint-Exupéry) Airport (LYS)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/45d764d84/lyon/' data-label_1='LYON' data-label_2='WEATHER' data-theme='dark' >LYON WEATHER</a>"
+        "France":"<ul> Lyon (Saint-Exupéry) Airport (LYS)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li>Collection by Crew: YES</li>"
     },
     "nce":{
-        "France":"<a href='https://en.nice.aeroport.fr/'> Nice Airport (NCE)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/43d717d26/nice/' data-label_1='NICE' data-label_2='WEATHER' data-icons='Climacons Animated' data-theme='dark' >NICE WEATHER</a>"
+        "France":"<ul> Nice Airport (NCE)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li>Collection by Crew: YES</li>"
     },
     "bva":{
-        "France":"<a href='https://www.aeroportparisbeauvais.com/passagers/'> Paris Beauvais Airport (BVA)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/48d862d35/paris/' data-label_1='PARIS' data-label_2='WEATHER' data-icons='Climacons Animated' data-theme='dark' >PARIS WEATHER</a>"
-    },
-    "kut":{
-        "Georgia":"<a href='http://www.kutaisi.aero'> Kutaisi Airport (KUT)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/42d2742d72/kutaisi/' data-label_1='KUTAISI' data-label_2='WEATHER' data-icons='Climacons Animated' data-theme='dark' >KUTAISI WEATHER</a>"
+        "France":"<ul> Paris Beauvais Airport (BVA)</ul> <li>Form is required to be distributed: NO</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li>Collection by Crew: NO</li>"
     },
     "sxf":{
-        "Germany":"<a href='https://www.berlin-airport.de/en/travellers-sxf/index.php'> Schoenefeld Airport (SXF)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/52d5213d40/berlin/' data-label_1='BERLIN' data-label_2='WEATHER' data-theme='dark' >BERLIN WEATHER</a>"
+        "Germany":"<ul> Schoenefeld Airport (SXF)</ul> <li>Form is required to be distributed: YES</li><li>Form is required to be distributed NON EU: YES</li><li>Specifics: Travel Card</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
     },
     "bre":{
-        "Germany":"<a href='https://www.bremen-airport.com/en/nc/'> Bremen Airport (BRE)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/53d088d80/bremen/' data-label_1='BREMEN' data-label_2='WEATHER' data-theme='dark' >BREMEN WEATHER</a>"
+        "Germany":"<ul> Bremen Airport (BRE)</ul> <li>Form is required to be distributed: YES</li><li>Form is required to be distributed NON EU: YES</li><li>Specifics: N/A</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
     },
     "cgn":{
-        "Germany":"<a href='http://www.koeln-bonn-airport.de'> Cologne Airport (CGN)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/50d946d96/cologne/' data-label_1='COLOGNE' data-label_2='WEATHER' data-theme='dark' >COLOGNE WEATHER</a>"
+        "Germany":"<ul> Cologne Airport (CGN)</ul> <li>Form is required to be distributed: NO</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: N/A</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
     },
     "dtm":{
-        "Germany":"<a href='https://www.dortmund-airport.com/'> Dortmund Airport (DTM)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/51d517d47/dortmund/' data-label_1='DORTMUND' data-label_2='WEATHER' data-theme='dark' >DORTMUND WEATHER</a>"
+        "Germany":"<ul> Dortmund Airport (DTM)</ul>  <li>Form is required to be distributed: NO</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: N/A</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
     },
     "fra":{
-        "Germany":"<a href='https://www.frankfurt-airport.com/en.html'> Frankfurt International Airport (FRA)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/50d118d68/frankfurt/' data-label_1='FRANKFURT' data-label_2='WEATHER' data-theme='dark' >FRANKFURT WEATHER</a>"
+        "Germany":"<ul> Frankfurt International Airport (FRA)</ul>  <li>Form is required to be distributed: NO</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: N/A</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
     },
     "fdh":{
-        "Germany":"<a href='https://www.bodensee-airport.eu/'> Friedrichshafen Airport (FDH)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/47d669d48/friedrichshafen/' data-label_1='FRIEDRICHSHAFEN' data-label_2='WEATHER' data-theme='dark' >FRIEDRICHSHAFEN WEATHER</a>"
+        "Germany":"<ul> Friedrichshafen Airport (FDH)</ul> <li>Form is required to be distributed: NO</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: N/A</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
     },
     "ham":{
-        "Germany":"<a href='https://www.hamburg-airport.de/en/index.php'> Hamburg Airport (HAM)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/53d559d99/hamburg/' data-label_1='HAMBURG' data-label_2='WEATHER' data-theme='dark' >HAMBURG WEATHER</a>"
+        "Germany":"<ul> Hamburg Airport (HAM)</ul><li>Form is required to be distributed: NO</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: N/A</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
     },
     "haj":{
-        "Germany":"<a href='https://www.hannover-airport.de/index.php?id=4360&L=1'> Hanover (HAJ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/52d389d73/hanover/' data-label_1='HANNOVER' data-label_2='WEATHER' data-theme='dark' >HANNOVER WEATHER</a>"
+        "Germany":"<ul> Hanover (HAJ)</ul><li>Form is required to be distributed: YES</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: N/A</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
     },
     "fkb":{
-        "Germany":"<a href='https://www.baden-airpark.de/'> Karlsruhe/Baden-Baden Airport (FKB)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/48d778d23/baden-baden/' data-label_1='BADEN-BADEN' data-label_2='WEATHER' data-theme='dark' >BADEN-BADEN WEATHER</a>"
+        "Germany":"<ul> Karlsruhe/Baden-Baden Airport (FKB)</ul> <li>Form is required to be distributed: NO</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: N/A</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
     },
     "lej":{
-        "Germany":"<a href='https://www.leipzig-halle-airport.de/en/'> Leipzig/Halle Airport (LEJ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/51d3412d37/leipzig/' data-label_1='LEIPZIG' data-label_2='WEATHER' data-theme='dark' >LEIPZIG WEATHER</a>"
+        "Germany":"<ul> Leipzig/Halle Airport (LEJ)</ul> <li>Form is required to be distributed: NO</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: N/A</li><li>Name of the form:Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
     },
     "fmm":{
-        "Germany":"<a href='https://www.allgaeu-airport.de/'> Memmingen/Munich West Airport (FMM)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/48d1411d58/munich/' data-label_1='MUNICH' data-label_2='WEATHER' data-theme='dark' >MUNICH WEATHER</a>"
+        "Germany":"<ul> Memmingen/Munich West Airport (FMM)</ul> <li>Form is required to be distributed: YES</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
     },
     "nue":{
-        "Germany":"<a href='https://www.airport-nuernberg.de/en'> Nuremberg Airport (NUE)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/49d4511d08/nuremberg/' data-label_1='NUREMBERG' data-label_2='WEATHER' data-theme='dark' >NUREMBERG WEATHER</a>"
+        "Germany":"<ul> Nuremberg Airport (NUE)</ul> <li>Form is required to be distributed: NO</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: Declaration of Health</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
     },
     "ath":{
-        "Greece":"<a href='https://www.aia.gr/traveler/'> Athens International Airport (ATH)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/37d9823d73/athens/' data-label_1='ATHENS' data-label_2='WEATHER' data-theme='dark' >ATHENS WEATHER</a>"
+        "Greece":"<ul> Athens International Airport (ATH)</ul> <li>Form is required to be distributed: NO</li><li>Specifics: All PAX traveling to Greece</li><li>Name of the form: e-PLF confirmation - QR code must be presented at the gate, without QR code PAX will be denied boarding</li><li>Collection by Crew: NO</li>"
     },
     "cfu":{
-        "Greece":"<a href='https://www.corfu-airport.com/'> Corfu Airport (CFU)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/39d6219d92/corfu/' data-label_1='CORFU' data-label_2='WEATHER' data-theme='dark' >CORFU WEATHER</a>"
+        "Greece":"<ul> Corfu Airport (CFU)</ul> <li>Form is required to be distributed: NO</li><li>Specifics: All PAX traveling to Greece</li><li>Name of the form: e-PLF confirmation - QR code must be presented at the gate, without QR code PAX will be denied boarding</li><li>Collection by Crew: NO</li>"
     },
     "her":{
-        "Greece":"<a href='http://www.heraklion-airport.info'> Heraklion Airport (HER)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/35d3425d14/heraklion/' data-label_1='HERAKLION' data-label_2='WEATHER' data-theme='dark' >HERAKLION WEATHER</a>"
+        "Greece":"<ul> Heraklion Airport (HER)</ul> <li>Form is required to be distributed: NO</li><li>Specifics: All PAX traveling to Greece</li><li>Name of the form: e-PLF confirmation - QR code must be presented at the gate, without QR code PAX will be denied boarding</li><li>Collection by Crew: NO</li>"
     },
     "rho":{
-        "Greece":"<a href='https://www.rho-airport.gr/en/'> Rhodes Airport (RHO)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/36d4328d22/rhodes/' data-label_1='RHODES' data-label_2='WEATHER' data-theme='dark' >RHODES WEATHER</a>"
+        "Greece":"<ul> Rhodes Airport (RHO)</ul> <li>Form is required to be distributed: NO</li><li>Specifics: All PAX traveling to Greece</li><li>Name of the form: e-PLF confirmation - QR code must be presented at the gate, without QR code PAX will be denied boarding</li><li>Collection by Crew: NO</li>"
     },
     "skg":{
-        "Greece":"<a href='http://www.thessalonikiairport.com'> Thessaloniki Airport (SKG)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/40d6422d94/thessaloniki/' data-label_1='THESSALONIKI' data-label_2='WEATHER' data-theme='dark' >THESSALONIKI WEATHER</a>"
+        "Greece":"<ul> Thessaloniki Airport (SKG)</ul> <li>Form is required to be distributed: NO</li><li>Specifics: All PAX traveling to Greece</li><li>Name of the form: e-PLF confirmation - QR code must be presented at the gate, without QR code PAX will be denied boarding</li><li>Collection by Crew: NO</li>"
     },
     "zth":{
-        "Greece":"<a href='http://zante.gr'> Zakynthos Airport (ZTH)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/37d7920d90/zakinthos/' data-label_1='ZAKYNTHOS' data-label_2='WEATHER' data-theme='dark' >ZAKYNTHOS WEATHER</a>"
-    },
-    "bud":{
-        "Hungary":"<a href='https://www.bud.hu/'> Budapest Airport - Terminal 2 (BUD)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/47d5019d04/budapest/' data-label_1='BUDAPEST' data-label_2='WEATHER' data-theme='dark' >BUDAPEST WEATHER</a>"
-    },
-    "deb":{
-        "Hungary":"<a href='https://www.debrecenairport.com/hu'> Debrecen Airport (DEB)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/47d5321d63/debrecen/' data-label_1='DEBRECEN' data-label_2='WEATHER' data-theme='dark' >DEBRECEN WEATHER</a>"
+        "Greece":"<ul> Zakynthos Airport (ZTH)</ul> <li>Form is required to be distributed: NO</li><li>Specifics: All PAX traveling to Greece</li><li>Name of the form: e-PLF confirmation - QR code must be presented at the gate, without QR code PAX will be denied boarding</li><li>Collection by Crew: NO</li>"
     },
     "kef":{
-        "Iceland":"<a href='https://www.isavia.is/en/keflavik-airport'> Reykjavik Airport (KEF)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/64d13n21d82/reykjavik/' data-label_1='REYKJAVÍK' data-label_2='WEATHER' data-theme='dark' >REYKJAVÍK WEATHER</a>"
+        "Iceland":"<ul> Reykjavik Airport (KEF)</ul> <li>Form is required to be distributed: NO</li><li>Specifics: Public Health Passenger Locator Form (Online)</li><li>Name of the form: Public Health Passenger Locator Form (Online)</li><li>Collection by Crew: NO</li>"
     },
     "etm":{
         "Israel":"<a href='http://www.ramon-airport.com'> Ramon Airport (ETM)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/29d5634d95/eilat/' data-label_1='EILAT' data-label_2='WEATHER' data-theme='dark' >EILAT WEATHER</a>"
