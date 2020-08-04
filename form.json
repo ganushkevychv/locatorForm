@@ -1,362 +1,362 @@
 {
     "tia":{
-        "Albania":"<ul>Tirana International Airport Nënë Tereza (TIA)</ul><li><strong>Form is required to be distributed: YES</li><li><strong><strong>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
+        "Albania":"<ul>Tirana International Airport Nënë Tereza (TIA)</ul><li><strong>Form is required to be distributed:</strong> YES</li><li><strong><strong><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "szg":{
-        "Austria":"<ul>Salzburg International Airport (SZG)</ul><li><strong>Form is required to be distributed:</strong> YES</li><li>Specifics: Austrian Covid Form on SZG flights( will be provided by the GH to the crew) and from PAX coming from Bosnia, Serbia and North Macedonia the Public Health Passenger Locator Form is required</li><li>Name of the form: Public Health Passenger Locator Form and Covid form</li><li>Collection by Crew: NO</li>"
+        "Austria":"<ul>Salzburg International Airport (SZG)</ul><li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Austrian Covid Form on SZG flights( will be provided by the GH to the crew) and from PAX coming from Bosnia, Serbia and North Macedonia the Public Health Passenger Locator Form is required</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form and Covid form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "bru":{
-        "Belgium":"<ul>Brussels Airport (BRU)</ul><li><strong>Form is required to be distributed: YES - destribution for those who did not fill in online as backup process. Otherwise should be online</li><li>Specifics: Only for Belgium, available only in english (PAX who does not process the form should be denied boarding)</li><li>Name of the form: Belgium Passenger Locator Form</li><li>Collection by Crew: YES - if the flight is from VIE, BUD, WAW, LJU</li>"
+        "Belgium":"<ul>Brussels Airport (BRU)</ul><li><strong>Form is required to be distributed:</strong> YES - destribution for those who did not fill in online as backup process. Otherwise should be online</li><li><strong>Specifics:</strong> Only for Belgium, available only in english (PAX who does not process the form should be denied boarding)</li><li><strong>Name of the form:</strong> Belgium Passenger Locator Form</li><li><strong>Collection by Crew:</strong> YES - if the flight is from VIE, BUD, WAW, LJU</li>"
     },
     "crl":{
-        "Belgium":"Brussels Charleroi Airport (CRL)</ul><li><strong>Form is required to be distributed: YES - destribution for those who did not fill in online as backup process. Otherwise should be online</li><li>Specifics: Only for Belgium, available only in english (PAX who does not process the form should be denied boarding)</li><li>Name of the form: Belgium Passenger Locator Form</li><li>Collection by Crew: YES - if the flight is from VIE, BUD, WAW, LJU</li>"
+        "Belgium":"Brussels Charleroi Airport (CRL)</ul><li><strong>Form is required to be distributed:</strong> YES - destribution for those who did not fill in online as backup process. Otherwise should be online</li><li><strong>Specifics:</strong> Only for Belgium, available only in english (PAX who does not process the form should be denied boarding)</li><li><strong>Name of the form:</strong> Belgium Passenger Locator Form</li><li><strong>Collection by Crew:</strong> YES - if the flight is from VIE, BUD, WAW, LJU</li>"
     },
     "boj":{
-        "Bulgaria":"<ul>Bourgas Airport (BOJ)</ul><li><strong>Form is required to be distributed: Flights arriving from UK, Sweeden, Portugal, Belgium: NO </br> All other countries: YES</li><li>Specifics: Form shall be destributed to PAX who are not going under quarantine upon arrival</li><li>Name of the form: PAX data declaration</li><li>Collection by Crew: NO</li>"
+        "Bulgaria":"<ul>Bourgas Airport (BOJ)</ul><li><strong>Form is required to be distributed:</strong> Flights arriving from UK, Sweeden, Portugal, Belgium: NO </br> All other countries: YES</li><li><strong>Specifics:</strong> Form shall be destributed to PAX who are not going under quarantine upon arrival</li><li><strong>Name of the form:</strong> PAX data declaration</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "sof":{
-        "Bulgaria":"<ul>Sofia Airport - Terminal 1 (SOF)</ul><li><strong>Form is required to be distributed: Flights arriving from UK, Sweeden, Portugal, Belgium: NO </br> All other countries: YES</li><li>Specifics: Form shall be destributed to PAX who are not going under quarantine upon arrival</li><li>Name of the form: PAX data declaration</li><li>Collection by Crew: NO</li>"
+        "Bulgaria":"<ul>Sofia Airport - Terminal 1 (SOF)</ul><li><strong>Form is required to be distributed:</strong> Flights arriving from UK, Sweeden, Portugal, Belgium: NO </br> All other countries: YES</li><li><strong>Specifics:</strong> Form shall be destributed to PAX who are not going under quarantine upon arrival</li><li><strong>Name of the form:</strong> PAX data declaration</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "var":{
-        "Bulgaria":"<ul> Varna Airport (VAR)</ul> <li><strong>Form is required to be distributed: Flights arriving from UK, Sweeden, Portugal, Belgium: NO </br> All other countries: YES</li><li>Specifics: Form shall be destributed to PAX who are not going under quarantine upon arrival</li><li>Name of the form: PAX data declaration</li><li>Collection by Crew: NO</li>"
+        "Bulgaria":"<ul> Varna Airport (VAR)</ul> <li><strong>Form is required to be distributed:</strong> Flights arriving from UK, Sweeden, Portugal, Belgium: NO </br> All other countries: YES</li><li><strong>Specifics:</strong> Form shall be destributed to PAX who are not going under quarantine upon arrival</li><li><strong>Name of the form:</strong> PAX data declaration</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "osi":{
-        "Croatia":"<ul> Osijek (OSI)</ul><li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
+        "Croatia":"<ul> Osijek (OSI)</ul><li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "spu":{
-        "Croatia":"<ul> Split Airport (SPU)</ul><li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
+        "Croatia":"<ul> Split Airport (SPU)</ul><li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "lca":{
-        "Cyprus":"<ul> Larnaca Airport (LCA)</ul> <li><strong>Form is required to be distributed: NO(Online)</li><li>Specifics: All PAX travelling to Cyprus must have Cyprus Flight Pass compleated </li><li>Name of the form: Cyprus Flight Pass</li><li>Collection by Crew: NO</li>"
+        "Cyprus":"<ul> Larnaca Airport (LCA)</ul> <li><strong>Form is required to be distributed:</strong> NO(Online)</li><li><strong>Specifics:</strong> All PAX travelling to Cyprus must have Cyprus Flight Pass compleated </li><li><strong>Name of the form:</strong> Cyprus Flight Pass</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "tku":{
-        "Finland":"<ul> Turku Airport (TKU)</ul> <li><strong>Form is required to be distributed: NO</li><li>Specifics: N/A</li><li>Name of the form: N/A</li><li>Collection by Crew: NO</li>"
+        "Finland":"<ul> Turku Airport (TKU)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li><strong>Specifics:</strong> N/A</li><li><strong>Name of the form:</strong> N/A</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "mlh":{
-        "France":"<ul> Mulhouse-Freiburg Airport (MLH)</ul> <li><strong>Form is required to be distributed: NO</li><li>Specifics: N/A</li><li>Name of the form: From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li>Collection by Crew: NO</li>"   
+        "France":"<ul> Mulhouse-Freiburg Airport (MLH)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li><strong>Specifics:</strong> N/A</li><li><strong>Name of the form:</strong> From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li><strong>Collection by Crew:</strong> NO</li>"   
     },
     "bod":{
-        "France":"<ul> Bordeaux–Mérignac Airport (BOD)</ul> <li><strong>Form is required to be distributed: NO</li><li>Specifics: N/A</li><li>Name of the form: From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li>Collection by Crew: NO</li>"
+        "France":"<ul> Bordeaux–Mérignac Airport (BOD)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li><strong>Specifics:</strong> N/A</li><li><strong>Name of the form:</strong> From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "gnb":{
-        "France":"<ul> Grenoble Airport (GNB)</ul> <li><strong>Form is required to be distributed: NO</li><li>Specifics: N/A</li><li>Name of the form: From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li>Collection by Crew: NO</li>"
+        "France":"<ul> Grenoble Airport (GNB)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li><strong>Specifics:</strong> N/A</li><li><strong>Name of the form:</strong> From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "lys":{
-        "France":"<ul> Lyon (Saint-Exupéry) Airport (LYS)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li>Collection by Crew: YES</li>"
+        "France":"<ul> Lyon (Saint-Exupéry) Airport (LYS)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "nce":{
-        "France":"<ul> Nice Airport (NCE)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li>Collection by Crew: YES</li>"
+        "France":"<ul> Nice Airport (NCE)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "bva":{
-        "France":"<ul> Paris Beauvais Airport (BVA)</ul> <li><strong>Form is required to be distributed: NO</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li>Collection by Crew: NO</li>"
+        "France":"<ul> Paris Beauvais Airport (BVA)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "sxf":{
-        "Germany":"<ul> Schoenefeld Airport (SXF)</ul> <li><strong>Form is required to be distributed: YES</li><li>Form is required to be distributed NON EU: YES</li><li>Specifics: Travel Card</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
+        "Germany":"<ul> Schoenefeld Airport (SXF)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li>Form is required to be distributed NON EU: YES</li><li><strong>Specifics:</strong> Travel Card</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form (EN & DE)</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "bre":{
-        "Germany":"<ul> Bremen Airport (BRE)</ul> <li><strong>Form is required to be distributed: YES</li><li>Form is required to be distributed NON EU: YES</li><li>Specifics: N/A</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
+        "Germany":"<ul> Bremen Airport (BRE)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li>Form is required to be distributed NON EU: YES</li><li><strong>Specifics:</strong> N/A</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form (EN & DE)</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "cgn":{
-        "Germany":"<ul> Cologne Airport (CGN)</ul> <li><strong>Form is required to be distributed: NO</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: N/A</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
+        "Germany":"<ul> Cologne Airport (CGN)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li>Form is required to be distributed NON EU: YES</li></li><li><strong>Specifics:</strong> N/A</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form (EN & DE)</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "dtm":{
-        "Germany":"<ul> Dortmund Airport (DTM)</ul>  <li><strong>Form is required to be distributed: NO</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: N/A</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
+        "Germany":"<ul> Dortmund Airport (DTM)</ul>  <li><strong>Form is required to be distributed:</strong> NO</li><li>Form is required to be distributed NON EU: YES</li></li><li><strong>Specifics:</strong> N/A</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form (EN & DE)</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "fra":{
-        "Germany":"<ul> Frankfurt International Airport (FRA)</ul>  <li><strong>Form is required to be distributed: NO</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: N/A</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
+        "Germany":"<ul> Frankfurt International Airport (FRA)</ul>  <li><strong>Form is required to be distributed:</strong> NO</li><li>Form is required to be distributed NON EU: YES</li></li><li><strong>Specifics:</strong> N/A</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form (EN & DE)</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "fdh":{
-        "Germany":"<ul> Friedrichshafen Airport (FDH)</ul> <li><strong>Form is required to be distributed: NO</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: N/A</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
+        "Germany":"<ul> Friedrichshafen Airport (FDH)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li>Form is required to be distributed NON EU: YES</li></li><li><strong>Specifics:</strong> N/A</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form (EN & DE)</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "ham":{
-        "Germany":"<ul> Hamburg Airport (HAM)</ul><li><strong>Form is required to be distributed: NO</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: N/A</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
+        "Germany":"<ul> Hamburg Airport (HAM)</ul><li><strong>Form is required to be distributed:</strong> NO</li><li>Form is required to be distributed NON EU: YES</li></li><li><strong>Specifics:</strong> N/A</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form (EN & DE)</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "haj":{
-        "Germany":"<ul> Hanover (HAJ)</ul><li><strong>Form is required to be distributed: YES</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: N/A</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
+        "Germany":"<ul> Hanover (HAJ)</ul><li><strong>Form is required to be distributed:</strong> YES</li><li>Form is required to be distributed NON EU: YES</li></li><li><strong>Specifics:</strong> N/A</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form (EN & DE)</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "fkb":{
-        "Germany":"<ul> Karlsruhe/Baden-Baden Airport (FKB)</ul> <li><strong>Form is required to be distributed: NO</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: N/A</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
+        "Germany":"<ul> Karlsruhe/Baden-Baden Airport (FKB)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li>Form is required to be distributed NON EU: YES</li></li><li><strong>Specifics:</strong> N/A</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form (EN & DE)</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "lej":{
-        "Germany":"<ul> Leipzig/Halle Airport (LEJ)</ul> <li><strong>Form is required to be distributed: NO</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: N/A</li><li>Name of the form:Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
+        "Germany":"<ul> Leipzig/Halle Airport (LEJ)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li>Form is required to be distributed NON EU: YES</li></li><li><strong>Specifics:</strong> N/A</li><li><strong>Name of the form:</strong>Public Health Passenger Locator Form (EN & DE)</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "fmm":{
-        "Germany":"<ul> Memmingen/Munich West Airport (FMM)</ul> <li><strong>Form is required to be distributed: YES</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
+        "Germany":"<ul> Memmingen/Munich West Airport (FMM)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li>Form is required to be distributed NON EU: YES</li></li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form (EN & DE)</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "nue":{
-        "Germany":"<ul> Nuremberg Airport (NUE)</ul> <li><strong>Form is required to be distributed: NO</li><li>Form is required to be distributed NON EU: YES</li></li><li>Specifics: Declaration of Health</li><li>Name of the form: Public Health Passenger Locator Form (EN & DE)</li><li>Collection by Crew: NO</li>"
+        "Germany":"<ul> Nuremberg Airport (NUE)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li>Form is required to be distributed NON EU: YES</li></li><li><strong>Specifics:</strong> Declaration of Health</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form (EN & DE)</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "ath":{
-        "Greece":"<ul> Athens International Airport (ATH)</ul> <li><strong>Form is required to be distributed: NO</li><li>Specifics: All PAX traveling to Greece</li><li>Name of the form: e-PLF confirmation - QR code must be presented at the gate, without QR code PAX will be denied boarding</li><li>Collection by Crew: NO</li>"
+        "Greece":"<ul> Athens International Airport (ATH)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li><strong>Specifics:</strong> All PAX traveling to Greece</li><li><strong>Name of the form:</strong> e-PLF confirmation - QR code must be presented at the gate, without QR code PAX will be denied boarding</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "cfu":{
-        "Greece":"<ul> Corfu Airport (CFU)</ul> <li><strong>Form is required to be distributed: NO</li><li>Specifics: All PAX traveling to Greece</li><li>Name of the form: e-PLF confirmation - QR code must be presented at the gate, without QR code PAX will be denied boarding</li><li>Collection by Crew: NO</li>"
+        "Greece":"<ul> Corfu Airport (CFU)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li><strong>Specifics:</strong> All PAX traveling to Greece</li><li><strong>Name of the form:</strong> e-PLF confirmation - QR code must be presented at the gate, without QR code PAX will be denied boarding</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "her":{
-        "Greece":"<ul> Heraklion Airport (HER)</ul> <li><strong>Form is required to be distributed: NO</li><li>Specifics: All PAX traveling to Greece</li><li>Name of the form: e-PLF confirmation - QR code must be presented at the gate, without QR code PAX will be denied boarding</li><li>Collection by Crew: NO</li>"
+        "Greece":"<ul> Heraklion Airport (HER)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li><strong>Specifics:</strong> All PAX traveling to Greece</li><li><strong>Name of the form:</strong> e-PLF confirmation - QR code must be presented at the gate, without QR code PAX will be denied boarding</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "rho":{
-        "Greece":"<ul> Rhodes Airport (RHO)</ul> <li><strong>Form is required to be distributed: NO</li><li>Specifics: All PAX traveling to Greece</li><li>Name of the form: e-PLF confirmation - QR code must be presented at the gate, without QR code PAX will be denied boarding</li><li>Collection by Crew: NO</li>"
+        "Greece":"<ul> Rhodes Airport (RHO)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li><strong>Specifics:</strong> All PAX traveling to Greece</li><li><strong>Name of the form:</strong> e-PLF confirmation - QR code must be presented at the gate, without QR code PAX will be denied boarding</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "skg":{
-        "Greece":"<ul> Thessaloniki Airport (SKG)</ul> <li><strong>Form is required to be distributed: NO</li><li>Specifics: All PAX traveling to Greece</li><li>Name of the form: e-PLF confirmation - QR code must be presented at the gate, without QR code PAX will be denied boarding</li><li>Collection by Crew: NO</li>"
+        "Greece":"<ul> Thessaloniki Airport (SKG)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li><strong>Specifics:</strong> All PAX traveling to Greece</li><li><strong>Name of the form:</strong> e-PLF confirmation - QR code must be presented at the gate, without QR code PAX will be denied boarding</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "zth":{
-        "Greece":"<ul> Zakynthos Airport (ZTH)</ul> <li><strong>Form is required to be distributed: NO</li><li>Specifics: All PAX traveling to Greece</li><li>Name of the form: e-PLF confirmation - QR code must be presented at the gate, without QR code PAX will be denied boarding</li><li>Collection by Crew: NO</li>"
+        "Greece":"<ul> Zakynthos Airport (ZTH)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li><strong>Specifics:</strong> All PAX traveling to Greece</li><li><strong>Name of the form:</strong> e-PLF confirmation - QR code must be presented at the gate, without QR code PAX will be denied boarding</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "kef":{
-        "Iceland":"<ul> Reykjavik Airport (KEF)</ul> <li><strong>Form is required to be distributed: NO</li><li>Specifics: Public Health Passenger Locator Form (Online)</li><li>Name of the form: Public Health Passenger Locator Form (Online)</li><li>Collection by Crew: NO</li>"
+        "Iceland":"<ul> Reykjavik Airport (KEF)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form (Online)</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form (Online)</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "cta":{
-        "Italy":"<ul> Catania Fontanarossa Airport (CTA)</ul> <li><strong>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
+        "Italy":"<ul> Catania Fontanarossa Airport (CTA)</ul> <li><strong>Form is required to be distributed:</strong> YES - from Bulgaria and Romania and from all non EU countries</li><li><strong>Specifics:</strong> Statement for the purpose of entering Italy</li><li><strong>Name of the form:</strong> Statement for the purpose of entering Italy</li><li><strong>Collection by Crew:</strong> Ask GH</li>"
     },
     "aho":{
-        "Italy":"<ul> Alghero Airport (AHO)</ul> <li><strong>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
+        "Italy":"<ul> Alghero Airport (AHO)</ul> <li><strong>Form is required to be distributed:</strong> YES - from Bulgaria and Romania and from all non EU countries</li><li><strong>Specifics:</strong> Statement for the purpose of entering Italy</li><li><strong>Name of the form:</strong> Statement for the purpose of entering Italy</li><li><strong>Collection by Crew:</strong> Ask GH</li>"
     },
     "bri":{
-        "Italy":"<ul> Bari Airport (BRI)</ul> <li><strong>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
+        "Italy":"<ul> Bari Airport (BRI)</ul> <li><strong>Form is required to be distributed:</strong> YES - from Bulgaria and Romania and from all non EU countries</li><li><strong>Specifics:</strong> Statement for the purpose of entering Italy</li><li><strong>Name of the form:</strong> Statement for the purpose of entering Italy</li><li><strong>Collection by Crew:</strong> Ask GH</li>"
     },
     "blq":{
-        "Italy":"<ul> Bologna Airport (BLQ)</ul> <li<strong>>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
+        "Italy":"<ul> Bologna Airport (BLQ)</ul> <li<strong>>Form is required to be distributed:</strong> YES - from Bulgaria and Romania and from all non EU countries</li><li><strong>Specifics:</strong> Statement for the purpose of entering Italy</li><li><strong>Name of the form:</strong> Statement for the purpose of entering Italy</li><li><strong>Collection by Crew:</strong> Ask GH</li>"
     },
     "suf":{
-        "Italy":"<ul> Lamezia Terme (SUF)</ul> <li><strong>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
+        "Italy":"<ul> Lamezia Terme (SUF)</ul> <li><strong>Form is required to be distributed:</strong> YES - from Bulgaria and Romania and from all non EU countries</li><li><strong>Specifics:</strong> Statement for the purpose of entering Italy</li><li><strong>Name of the form:</strong> Statement for the purpose of entering Italy</li><li><strong>Collection by Crew:</strong> Ask GH</li>"
     },
     "mxp":{
-        "Italy":"<ul> Milan Malpensa Airport - Terminal 1 (MXP)</ul> <li><strong>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
+        "Italy":"<ul> Milan Malpensa Airport - Terminal 1 (MXP)</ul> <li><strong>Form is required to be distributed:</strong> YES - from Bulgaria and Romania and from all non EU countries</li><li><strong>Specifics:</strong> Statement for the purpose of entering Italy</li><li><strong>Name of the form:</strong> Statement for the purpose of entering Italy</li><li><strong>Collection by Crew:</strong> Ask GH</li>"
     },
     "nap":{
-        "Italy":"<ul> Naples Airport (NAP)</ul> <li><strong>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
+        "Italy":"<ul> Naples Airport (NAP)</ul> <li><strong>Form is required to be distributed:</strong> YES - from Bulgaria and Romania and from all non EU countries</li><li><strong>Specifics:</strong> Statement for the purpose of entering Italy</li><li><strong>Name of the form:</strong> Statement for the purpose of entering Italy</li><li><strong>Collection by Crew:</strong> Ask GH</li>"
     },
     "peg":{
-        "Italy":"<ul> Perugia Airport (PEG)</ul> <li><strong>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
+        "Italy":"<ul> Perugia Airport (PEG)</ul> <li><strong>Form is required to be distributed:</strong> YES - from Bulgaria and Romania and from all non EU countries</li><li><strong>Specifics:</strong> Statement for the purpose of entering Italy</li><li><strong>Name of the form:</strong> Statement for the purpose of entering Italy</li><li><strong>Collection by Crew:</strong> Ask GH</li>"
     },
     "psr":{
-        "Italy":"<ul> Pescara Airport (PSR)</ul> <li><strong>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
+        "Italy":"<ul> Pescara Airport (PSR)</ul> <li><strong>Form is required to be distributed:</strong> YES - from Bulgaria and Romania and from all non EU countries</li><li><strong>Specifics:</strong> Statement for the purpose of entering Italy</li><li><strong>Name of the form:</strong> Statement for the purpose of entering Italy</li><li><strong>Collection by Crew:</strong> Ask GH</li>"
     },
     "psa":{
-        "Italy":"<ul> Pisa Airport (PSA)</ul> <li><strong>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
+        "Italy":"<ul> Pisa Airport (PSA)</ul> <li><strong>Form is required to be distributed:</strong> YES - from Bulgaria and Romania and from all non EU countries</li><li><strong>Specifics:</strong> Statement for the purpose of entering Italy</li><li><strong>Name of the form:</strong> Statement for the purpose of entering Italy</li><li><strong>Collection by Crew:</strong> Ask GH</li>"
     },
     "fco":{
-        "Italy":"<ul> Rome Fiumicino Airport - Terminal 2 (FCO)</ul> <li><strong>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
+        "Italy":"<ul> Rome Fiumicino Airport - Terminal 2 (FCO)</ul> <li><strong>Form is required to be distributed:</strong> YES - from Bulgaria and Romania and from all non EU countries</li><li><strong>Specifics:</strong> Statement for the purpose of entering Italy</li><li><strong>Name of the form:</strong> Statement for the purpose of entering Italy</li><li><strong>Collection by Crew:</strong> Ask GH</li>"
     },
     "trn":{
-        "Italy":"<ul> Turin Airport (TRN)</ul> <li><strong>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
+        "Italy":"<ul> Turin Airport (TRN)</ul> <li><strong>Form is required to be distributed:</strong> YES - from Bulgaria and Romania and from all non EU countries</li><li><strong>Specifics:</strong> Statement for the purpose of entering Italy</li><li><strong>Name of the form:</strong> Statement for the purpose of entering Italy</li><li><strong>Collection by Crew:</strong> Ask GH</li>"
     },
     "tsf":{
-        "Italy":"<ul> Venice Treviso Airport (TSF)</ul> <li><strong>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
+        "Italy":"<ul> Venice Treviso Airport (TSF)</ul> <li><strong>Form is required to be distributed:</strong> YES - from Bulgaria and Romania and from all non EU countries</li><li><strong>Specifics:</strong> Statement for the purpose of entering Italy</li><li><strong>Name of the form:</strong> Statement for the purpose of entering Italy</li><li><strong>Collection by Crew:</strong> Ask GH</li>"
     },
     "vrn":{
-        "Italy":"<ul> Verona Airport (VRN)</ul> <li><strong>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
+        "Italy":"<ul> Verona Airport (VRN)</ul> <li><strong>Form is required to be distributed:</strong> YES - from Bulgaria and Romania and from all non EU countries</li><li><strong>Specifics:</strong> Statement for the purpose of entering Italy</li><li><strong>Name of the form:</strong> Statement for the purpose of entering Italy</li><li><strong>Collection by Crew:</strong> Ask GH</li>"
     },
     "bgy":{
-        "Italy":"<ul> Bergamo Airport (BGY)</ul> <li><strong>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
+        "Italy":"<ul> Bergamo Airport (BGY)</ul> <li><strong>Form is required to be distributed:</strong> YES - from Bulgaria and Romania and from all non EU countries</li><li><strong>Specifics:</strong> Statement for the purpose of entering Italy</li><li><strong>Name of the form:</strong> Statement for the purpose of entering Italy</li><li><strong>Collection by Crew:</strong> Ask GH</li>"
     },
     "rix":{
-        "Latvia":"<ul> Riga Airport (RIX)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Declaration on:'I declare that I have been informed that epidemiological security measures have been established in Latvia to limit spread of COVID-19 and I undertake to comply wih this measures.'</li><li>Name of the form: Declaration form (EN,RUS,LAT)</li><li>Collection by Crew: YES</li>"
+        "Latvia":"<ul> Riga Airport (RIX)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Declaration on:'I declare that I have been informed that epidemiological security measures have been established in Latvia to limit spread of COVID-19 and I undertake to comply wih this measures.'</li><li><strong>Name of the form:</strong> Declaration form (EN,RUS,LAT)</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "kun":{
-        "Lithuania":"<ul> Kaunas Airport (KUN)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
+        "Lithuania":"<ul> Kaunas Airport (KUN)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "plq":{
-        "Lithuania":"<ul> Palanga – Klaipeda Airport (PLQ)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
+        "Lithuania":"<ul> Palanga – Klaipeda Airport (PLQ)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "vno":{
-        "Lithuania":"<ul> Vilnius Airport (VNO)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
+        "Lithuania":"<ul> Vilnius Airport (VNO)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "mla":{
-        "Malta":"<ul> Malta Airport (MLA)</ul> <li><strong>Form is required to be distributed: YES - GH will provide the forms</li><li>Specifics: PAX must fill in Public Health Passenger Locator Form and Public Health Travel Declaration Form. CC must remind PAX to fill in both forms</li><li>Name of the form: Public Health Passenger Locator Form & Public Health Travel Declaration Form</li><li>Collection by Crew: Declaration form shall be collected by CC</li>"
+        "Malta":"<ul> Malta Airport (MLA)</ul> <li><strong>Form is required to be distributed:</strong> YES - GH will provide the forms</li><li><strong>Specifics:</strong> PAX must fill in Public Health Passenger Locator Form and Public Health Travel Declaration Form. CC must remind PAX to fill in both forms</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form & Public Health Travel Declaration Form</li><li><strong>Collection by Crew:</strong> Declaration form shall be collected by CC</li>"
     },
     "kiv":{
-        "Moldova":"<ul> Chisinau Airport (KIV)</ul> <li<strong>>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
+        "Moldova":"<ul> Chisinau Airport (KIV)</ul> <li<strong>>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "ein":{
-        "Netherlands":"<ul> Eindhoven Airport (EIN)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Health Screening Form</li><li>Name of the form: Health Screening Form</li><li>Collection by Crew: NO</li>"
+        "Netherlands":"<ul> Eindhoven Airport (EIN)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Health Screening Form</li><li><strong>Name of the form:</strong> Health Screening Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "grq":{
-        "Netherlands":"<ul> Groningen Airport (GRQ)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Health Screening Form</li><li>Name of the form: Health Screening Form</li><li>Collection by Crew: NO</li>"
+        "Netherlands":"<ul> Groningen Airport (GRQ)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Health Screening Form</li><li><strong>Name of the form:</strong> Health Screening Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "mst":{
-        "Netherlands":"<ul> Maastricht Airport (MST)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Health Screening Form</li><li>Name of the form: Health Screening Form</li><li>Collection by Crew: NO</li>"
+        "Netherlands":"<ul> Maastricht Airport (MST)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Health Screening Form</li><li><strong>Name of the form:</strong> Health Screening Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "ohd":{
-        "North Macedonia":"<ul> Ohrid Airport (OHD)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
+        "North Macedonia":"<ul> Ohrid Airport (OHD)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "skp":{
-        "North Macedonia":"<ul> Skopje Airport (SKP)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
+        "North Macedonia":"<ul> Skopje Airport (SKP)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "gdn":{
-        "Poland":"<ul> Gdansk Airport (GDN)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
+        "Poland":"<ul> Gdansk Airport (GDN)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "ktw":{
-        "Poland":"<ul> Katowice Airport (KTW)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
+        "Poland":"<ul> Katowice Airport (KTW)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "krk":{
-        "Poland":"<ul> Krakow Airport (KRK)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
+        "Poland":"<ul> Krakow Airport (KRK)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "luz":{
-        "Poland":"<ul> Lublin Airport (LUZ)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
+        "Poland":"<ul> Lublin Airport (LUZ)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "szy":{
-        "Poland":"<ul> Olsztyn-Mazury Airport (SZY)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
+        "Poland":"<ul> Olsztyn-Mazury Airport (SZY)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "poz":{
-        "Poland":"<ul> Poznan Airport (POZ)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
+        "Poland":"<ul> Poznan Airport (POZ)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "szz":{
-        "Poland":"<ul> Szczecin Airport (SZZ)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
+        "Poland":"<ul> Szczecin Airport (SZZ)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "waw":{
-        "Poland":"<ul> Warsaw Chopin Airport (WAW)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
+        "Poland":"<ul> Warsaw Chopin Airport (WAW)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "wro":{
-        "Poland":"<ul> Wroclaw Airport (WRO)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
+        "Poland":"<ul> Wroclaw Airport (WRO)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "fao":{
-        "Portugal":"<ul> Faro (FAO)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form (EN & PT)</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
+        "Portugal":"<ul> Faro (FAO)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form (EN & PT)</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "lis":{
-        "Portugal":"<ul> Lisbon Airport (LIS)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form (EN & PT)</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
+        "Portugal":"<ul> Lisbon Airport (LIS)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form (EN & PT)</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "opo":{
-        "Portugal":"<ul> Porto Airport (OPO)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form (EN & PT)</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
+        "Portugal":"<ul> Porto Airport (OPO)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form (EN & PT)</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "otp":{
-        "Romania":"<ul> Bucharest H. Coanda Airport (OTP)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Declaration</li><li>Name of the form: Declaration Form</li><li>Collection by Crew: NO</li>"
+        "Romania":"<ul> Bucharest H. Coanda Airport (OTP)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Declaration</li><li><strong>Name of the form:</strong> Declaration Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "clj":{
-        "Romania":"<ul> Cluj-Napoca Airport (CLJ)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Declaration</li><li>Name of the form: Declaration Form</li><li>Collection by Crew: NO</li>"
+        "Romania":"<ul> Cluj-Napoca Airport (CLJ)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Declaration</li><li><strong>Name of the form:</strong> Declaration Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "cnd":{
-        "Romania":"<ul> Constanta Airport (CND)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Declaration</li><li>Name of the form: Declaration Form</li><li>Collection by Crew: NO</li>"
+        "Romania":"<ul> Constanta Airport (CND)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Declaration</li><li><strong>Name of the form:</strong> Declaration Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "cra":{
-        "Romania":"<ul> Craiova Airport (CRA)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Declaration</li><li>Name of the form: Declaration Form</li><li>Collection by Crew: NO</li>"
+        "Romania":"<ul> Craiova Airport (CRA)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Declaration</li><li><strong>Name of the form:</strong> Declaration Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "ias":{
-        "Romania":"<ul> Iasi Airport (IAS)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Declaration</li><li>Name of the form: Declaration Form</li><li>Collection by Crew: NO</li>"
+        "Romania":"<ul> Iasi Airport (IAS)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Declaration</li><li><strong>Name of the form:</strong> Declaration Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "suj":{
-        "Romania":"<ul> Satu Mare (SUJ)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Declaration</li><li>Name of the form: Declaration Form</li><li>Collection by Crew: NO</li>"
+        "Romania":"<ul> Satu Mare (SUJ)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Declaration</li><li><strong>Name of the form:</strong> Declaration Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "sbz":{
-        "Romania":"<ul> Sibiu Airport (SBZ)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Declaration</li><li>Name of the form: Declaration Form</li><li>Collection by Crew: NO</li>"
+        "Romania":"<ul> Sibiu Airport (SBZ)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Declaration</li><li><strong>Name of the form:</strong> Declaration Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "scv":{
-        "Romania":"<ul> Suceava Airport (SCV)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Declaration</li><li>Name of the form: Declaration Form</li><li>Collection by Crew: NO</li>"
+        "Romania":"<ul> Suceava Airport (SCV)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Declaration</li><li><strong>Name of the form:</strong> Declaration Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "tsr":{
-        "Romania":"<ul> Timisoara Airport (TSR)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Declaration</li><li>Name of the form: Declaration Form</li><li>Collection by Crew: NO</li>"
+        "Romania":"<ul> Timisoara Airport (TSR)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Declaration</li><li><strong>Name of the form:</strong> Declaration Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "tgm":{
-        "Romania":"<ul> Tirgu Mures Airport (TGM)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Declaration</li><li>Name of the form: Declaration Form</li><li>Collection by Crew: NO</li>"
+        "Romania":"<ul> Tirgu Mures Airport (TGM)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Declaration</li><li><strong>Name of the form:</strong> Declaration Form</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "bts":{
-        "Slovakia":"<ul> Bratislava Airport (BTS)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
+        "Slovakia":"<ul> Bratislava Airport (BTS)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "ksc":{
-        "Slovakia":"<ul> Kosice Airport (KSC)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
+        "Slovakia":"<ul> Kosice Airport (KSC)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "tat":{
-        "Slovakia":"<ul> Poprad - Tatry Airport (TAT)</ul> <li><strong>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
+        "Slovakia":"<ul> Poprad - Tatry Airport (TAT)</ul> <li><strong>Form is required to be distributed:</strong> YES</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form</li><li><strong>Collection by Crew:</strong> YES</li>"
     },
     "alc":{
-        "Spain":"<ul> Alicante Airport (ALC)</ul> <li><strong>Form is required to be distributed: YES - for those who not prossess QR code</li><li>Specifics: Public Health Passenger Locator Card</li><li>Name of the form: Passenger Locator Card</li><li>Collection by Crew: NO</li>"
+        "Spain":"<ul> Alicante Airport (ALC)</ul> <li><strong>Form is required to be distributed:</strong> YES - for those who not prossess QR code</li><li><strong>Specifics:</strong> Public Health Passenger Locator Card</li><li><strong>Name of the form:</strong> Passenger Locator Card</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "bcn":{
-        "Spain":"<ul> Barcelona Airport - Terminal 2 (BCN)</ul> <li><strong>Form is required to be distributed: YES - for those who not prossess QR code</li><li>Specifics: Public Health Passenger Locator Card</li><li>Name of the form: Passenger Locator Card</li><li>Collection by Crew: NO</li>"
+        "Spain":"<ul> Barcelona Airport - Terminal 2 (BCN)</ul> <li><strong>Form is required to be distributed:</strong> YES - for those who not prossess QR code</li><li><strong>Specifics:</strong> Public Health Passenger Locator Card</li><li><strong>Name of the form:</strong> Passenger Locator Card</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "cdt":{
-        "Spain":"<ul> Castellón (CDT)</ul> <li><strong>Form is required to be distributed: YES - for those who not prossess QR code</li><li>Specifics: Public Health Passenger Locator Card</li><li>Name of the form: Passenger Locator Card</li><li>Collection by Crew: NO</li>"
+        "Spain":"<ul> Castellón (CDT)</ul> <li><strong>Form is required to be distributed:</strong> YES - for those who not prossess QR code</li><li><strong>Specifics:</strong> Public Health Passenger Locator Card</li><li><strong>Name of the form:</strong> Passenger Locator Card</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "fue":{
-        "Spain":"<ul> Fuerteventura (Canary Islands) Airport (FUE)</ul> <li><strong>Form is required to be distributed: YES - for those who not prossess QR code</li><li>Specifics: Public Health Passenger Locator Card</li><li>Name of the form: Passenger Locator Card</li><li>Collection by Crew: NO</li>"
+        "Spain":"<ul> Fuerteventura (Canary Islands) Airport (FUE)</ul> <li><strong>Form is required to be distributed:</strong> YES - for those who not prossess QR code</li><li><strong>Specifics:</strong> Public Health Passenger Locator Card</li><li><strong>Name of the form:</strong> Passenger Locator Card</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "ibz":{
-        "Spain":"<ul> Ibiza Airport (IBZ)</ul> <li><strong>Form is required to be distributed: YES - for those who not prossess QR code</li><li>Specifics: Public Health Passenger Locator Card</li><li>Name of the form: Passenger Locator Card</li><li>Collection by Crew: NO</li>"
+        "Spain":"<ul> Ibiza Airport (IBZ)</ul> <li><strong>Form is required to be distributed:</strong> YES - for those who not prossess QR code</li><li><strong>Specifics:</strong> Public Health Passenger Locator Card</li><li><strong>Name of the form:</strong> Passenger Locator Card</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "ace":{
-        "Spain":"<ul> Lanzarote (Canary Islands) Airport (ACE)</ul> <li><strong>Form is required to be distributed: YES - for those who not prossess QR code</li><li>Specifics: Public Health Passenger Locator Card</li><li>Name of the form: Passenger Locator Card</li><li>Collection by Crew: NO</li>"
+        "Spain":"<ul> Lanzarote (Canary Islands) Airport (ACE)</ul> <li><strong>Form is required to be distributed:</strong> YES - for those who not prossess QR code</li><li><strong>Specifics:</strong> Public Health Passenger Locator Card</li><li><strong>Name of the form:</strong> Passenger Locator Card</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "mad":{
-        "Spain":"<ul> Madrid Airport - Terminal 1 (MAD)</ul> <li><strong>Form is required to be distributed: YES - for those who not prossess QR code</li><li>Specifics: Public Health Passenger Locator Card</li><li>Name of the form: Passenger Locator Card</li><li>Collection by Crew: NO</li>"
+        "Spain":"<ul> Madrid Airport - Terminal 1 (MAD)</ul> <li><strong>Form is required to be distributed:</strong> YES - for those who not prossess QR code</li><li><strong>Specifics:</strong> Public Health Passenger Locator Card</li><li><strong>Name of the form:</strong> Passenger Locator Card</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "agp":{
-        "Spain":"<ul> Malaga Airport (AGP)</ul> <li><strong>Form is required to be distributed: YES - for those who not prossess QR code</li><li>Specifics: Public Health Passenger Locator Card</li><li>Name of the form: Passenger Locator Card</li><li>Collection by Crew: NO</li>"
+        "Spain":"<ul> Malaga Airport (AGP)</ul> <li><strong>Form is required to be distributed:</strong> YES - for those who not prossess QR code</li><li><strong>Specifics:</strong> Public Health Passenger Locator Card</li><li><strong>Name of the form:</strong> Passenger Locator Card</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "pmi":{
-        "Spain":"<ul> Palma de Mallorca Airport (PMI)</ul> <li><strong>Form is required to be distributed: YES - for those who not prossess QR code</li><li>Specifics: Public Health Passenger Locator Card</li><li>Name of the form: Passenger Locator Card</li><li>Collection by Crew: NO</li>"
+        "Spain":"<ul> Palma de Mallorca Airport (PMI)</ul> <li><strong>Form is required to be distributed:</strong> YES - for those who not prossess QR code</li><li><strong>Specifics:</strong> Public Health Passenger Locator Card</li><li><strong>Name of the form:</strong> Passenger Locator Card</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "sdr":{
-        "Spain":"<ul> Santander (SDR)</ul> <li><strong>Form is required to be distributed: YES - for those who not prossess QR code</li><li>Specifics: Public Health Passenger Locator Card</li><li>Name of the form: Passenger Locator Card</li><li>Collection by Crew: NO</li>"
+        "Spain":"<ul> Santander (SDR)</ul> <li><strong>Form is required to be distributed:</strong> YES - for those who not prossess QR code</li><li><strong>Specifics:</strong> Public Health Passenger Locator Card</li><li><strong>Name of the form:</strong> Passenger Locator Card</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "svq":{
-        "Spain":"<ul> Seville Airport (SVQ)</ul> <li><strong>Form is required to be distributed: YES - for those who not prossess QR code</li><li>Specifics: Public Health Passenger Locator Card</li><li>Name of the form: Passenger Locator Card</li><li>Collection by Crew: NO</li>"
+        "Spain":"<ul> Seville Airport (SVQ)</ul> <li><strong>Form is required to be distributed:</strong> YES - for those who not prossess QR code</li><li><strong>Specifics:</strong> Public Health Passenger Locator Card</li><li><strong>Name of the form:</strong> Passenger Locator Card</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "tfs":{
-        "Spain":"<ul> Tenerife Airport (TFS)</ul> <li><strong>Form is required to be distributed: YES - for those who not prossess QR code</li><li>Specifics: Public Health Passenger Locator Card</li><li>Name of the form: Passenger Locator Card</li><li>Collection by Crew: NO</li>" 
+        "Spain":"<ul> Tenerife Airport (TFS)</ul> <li><strong>Form is required to be distributed:</strong> YES - for those who not prossess QR code</li><li><strong>Specifics:</strong> Public Health Passenger Locator Card</li><li><strong>Name of the form:</strong> Passenger Locator Card</li><li><strong>Collection by Crew:</strong> NO</li>" 
     },
     "vlc":{
-        "Spain":"<ul> Valencia Manises Airport (VLC)</ul> <li><strong>Form is required to be distributed: YES - for those who not prossess QR code</li><li>Specifics: Public Health Passenger Locator Card</li><li>Name of the form: Passenger Locator Card</li><li>Collection by Crew: NO</li>"
+        "Spain":"<ul> Valencia Manises Airport (VLC)</ul> <li><strong>Form is required to be distributed:</strong> YES - for those who not prossess QR code</li><li><strong>Specifics:</strong> Public Health Passenger Locator Card</li><li><strong>Name of the form:</strong> Passenger Locator Card</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "zaz":{
-        "Spain":"<ul> Zaragoza Airport (ZAZ)</ul> <li><strong>Form is required to be distributed: YES - for those who not prossess QR code</li><li>Specifics: Public Health Passenger Locator Card</li><li>Name of the form: Passenger Locator Card</li><li>Collection by Crew: NO</li>"
+        "Spain":"<ul> Zaragoza Airport (ZAZ)</ul> <li><strong>Form is required to be distributed:</strong> YES - for those who not prossess QR code</li><li><strong>Specifics:</strong> Public Health Passenger Locator Card</li><li><strong>Name of the form:</strong> Passenger Locator Card</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "bsl":{
-        "Switzerland":"<ul> Basel-Mulhouse-Freiburg Airport (BSL)</ul> <li><strong>Form is required to be distributed: NO - becouse we land on the French side</li><li>Specifics: Contact Tracing Card in case landing CH side</li><li>Name of the form: Contact Tracing Card</li><li>Collection by Crew: NO</li>"
+        "Switzerland":"<ul> Basel-Mulhouse-Freiburg Airport (BSL)</ul> <li><strong>Form is required to be distributed:</strong> NO - becouse we land on the French side</li><li><strong>Specifics:</strong> Contact Tracing Card in case landing CH side</li><li><strong>Name of the form:</strong> Contact Tracing Card</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "gva":{
-        "Switzerland":"<ul> Geneva Airport (GVA)</ul> <li><strong>Form is required to be distributed: NO - becouse we land on the French side</li><li>Specifics: Contact Tracing Card in case landing CH side</li><li>Name of the form: Contact Tracing Card</li><li>Collection by Crew: NO</li>"
+        "Switzerland":"<ul> Geneva Airport (GVA)</ul> <li><strong>Form is required to be distributed:</strong> NO - becouse we land on the French side</li><li><strong>Specifics:</strong> Contact Tracing Card in case landing CH side</li><li><strong>Name of the form:</strong> Contact Tracing Card</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "hrk":{
-        "Ukraine":"<ul> Kharkiv International Airport (HRK)</ul> <li><strong>Form is required to be distributed: NO</li><li>Specifics: N/A</li><li>Name of the form: GENDEC for crew</li><li>Collection by Crew: NO</li>"
+        "Ukraine":"<ul> Kharkiv International Airport (HRK)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li><strong>Specifics:</strong> N/A</li><li><strong>Name of the form:</strong> GENDEC for crew</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "kbp":{
-        "Ukraine":"<ul> Boryspil International Airport (KBP)</ul> <li><strong>Form is required to be distributed: NO</li><li>Specifics: N/A</li><li>Name of the form: GENDEC for crew</li><li>Collection by Crew: NO</li>"
+        "Ukraine":"<ul> Boryspil International Airport (KBP)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li><strong>Specifics:</strong> N/A</li><li><strong>Name of the form:</strong> GENDEC for crew</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "iev":{
-        "Ukraine":"<ul> Kyiv Zhulyany Airport (IEV)</ul> <li><strong>Form is required to be distributed: NO</li><li>Specifics: N/A</li><li><strong>Name of the form: GENDEC for crew</li><li>Collection by Crew: NO</li>"
+        "Ukraine":"<ul> Kyiv Zhulyany Airport (IEV)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li><strong>Specifics:</strong> N/A</li><li><strong><strong>Name of the form:</strong> GENDEC for crew</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "lwo":{
-        "Ukraine":"<ul> Lviv Danylo Halytskyi International Airport (LWO)</ul> <li><strong>Form is required to be distributed: NO</li><li><strong>Specifics: N/A</li><li>Name of the form: GENDEC for crew</li><li>Collection by Crew: NO</li>"
+        "Ukraine":"<ul> Lviv Danylo Halytskyi International Airport (LWO)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li><strong><strong>Specifics:</strong> N/A</li><li><strong>Name of the form:</strong> GENDEC for crew</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "ods":{
-        "Ukraine":"<ul> Odesa International Airport (ODS)</ul> <li><strong>Form is required to be distributed: NO</li><li><strong>Specifics: N/A</li><li><strong>Name of the form: GENDEC for crew</li><li>Collection by Crew: NO</li>"
+        "Ukraine":"<ul> Odesa International Airport (ODS)</ul> <li><strong>Form is required to be distributed:</strong> NO</li><li><strong><strong>Specifics:</strong> N/A</li><li><strong>Name of the form:</strong> GENDEC for crew</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "ozh":{
-        "Ukraine":"<ul> Zaporizhzhya International Airport (OZH)</ul> <li<strong>>Form is required to be distributed: NO</li><li><strong>Specifics: N/A</li><li><strong>Name of the form: GENDEC for crew</li><li>Collection by Crew: NO</li>"
+        "Ukraine":"<ul> Zaporizhzhya International Airport (OZH)</ul> <li<strong>>Form is required to be distributed:</strong> NO</li><li><strong><strong>Specifics:</strong> N/A</li><li><strong>Name of the form:</strong> GENDEC for crew</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "abz":{
-        "United Kingdom":"<ul> Aberdeen Airport (ABZ)</ul> <li><strong>Form is required to be distributed: NO (online)</li><li><strong>Specifics: Public Health Passenger Locator Form</li><li><strong>Name of the form: Public Health Passenger Locator Form and GENDEC for crew</li><li>Collection by Crew: NO</li>"
+        "United Kingdom":"<ul> Aberdeen Airport (ABZ)</ul> <li><strong>Form is required to be distributed:</strong> NO (online)</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form and GENDEC for crew</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "bfs":{
-        "United Kingdom":"<ul> Belfast (BFS)</ul> <li><strong>Form is required to be distributed: NO (online)</li><li><strong>Specifics: Public Health Passenger Locator Form</li><li><strong>Name of the form: Public Health Passenger Locator Form and GENDEC for crew</li><li>Collection by Crew: NO</li>"
+        "United Kingdom":"<ul> Belfast (BFS)</ul> <li><strong>Form is required to be distributed:</strong> NO (online)</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form and GENDEC for crew</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "bhx":{
-        "United Kingdom":"<ul> Birmingham Airport (BHX)</ul> <li><strong>Form is required to be distributed: NO (online)</li><li><strong>Specifics: Public Health Passenger Locator Form</li><li><strong>Name of the form: Public Health Passenger Locator Form and GENDEC for crew</li><li>Collection by Crew: NO</li>"
+        "United Kingdom":"<ul> Birmingham Airport (BHX)</ul> <li><strong>Form is required to be distributed:</strong> NO (online)</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form and GENDEC for crew</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "brs":{
-        "United Kingdom":"<ul> Bristol Airport (BRS)</ul> <li><strong>Form is required to be distributed: NO (online)</li><li><strong>Specifics: Public Health Passenger Locator Form</li><li><strong>Name of the form: Public Health Passenger Locator Form and GENDEC for crew</li><li>Collection by Crew: NO</li>"
+        "United Kingdom":"<ul> Bristol Airport (BRS)</ul> <li><strong>Form is required to be distributed:</strong> NO (online)</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form and GENDEC for crew</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "dsa":{
-        "United Kingdom":"<ul> Doncaster/Sheffield Airport (DSA)</ul> <li><strong>Form is required to be distributed: NO (online)</li><li><strong>Specifics: Public Health Passenger Locator Form</li><li><strong>Name of the form: Public Health Passenger Locator Form and GENDEC for crew</li><li>Collection by Crew: NO</li>"
+        "United Kingdom":"<ul> Doncaster/Sheffield Airport (DSA)</ul> <li><strong>Form is required to be distributed:</strong> NO (online)</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form and GENDEC for crew</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "edi":{
-        "United Kingdom":"<ul> Edinburgh Airport (EDI)</ul><li><strong>Form is required to be distributed: NO (online)</li><li><strong>Specifics: Public Health Passenger Locator Form</li><li><strong>Name of the form: Public Health Passenger Locator Form and GENDEC for crew</li><li>Collection by Crew: NO</li>"
+        "United Kingdom":"<ul> Edinburgh Airport (EDI)</ul><li><strong>Form is required to be distributed:</strong> NO (online)</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form and GENDEC for crew</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "gla":{
-        "United Kingdom":"<ul> Glasgow International Airport (GLA)</ul><li><strong>Form is required to be distributed: NO (online)</li><li><strong>Specifics: Public Health Passenger Locator Form</li><li><strong>Name of the form: Public Health Passenger Locator Form and GENDEC for crew</li><li>Collection by Crew: NO</li>"
+        "United Kingdom":"<ul> Glasgow International Airport (GLA)</ul><li><strong>Form is required to be distributed:</strong> NO (online)</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form and GENDEC for crew</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "lpl":{
-        "United Kingdom":"<ul> Liverpool Airport (LPL)</ul><li><strong>Form is required to be distributed: NO (online)</li><li><strong>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form and GENDEC for crew</li><li>Collection by Crew: NO</li>"
+        "United Kingdom":"<ul> Liverpool Airport (LPL)</ul><li><strong>Form is required to be distributed:</strong> NO (online)</li><li><strong>>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form and GENDEC for crew</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "sen":{
-        "United Kingdom":"<ul> London Southend Airport (SEN)</ul><li><strong>Form is required to be distributed: NO (online)</li><li><strong>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form and GENDEC for crew</li><li>Collection by Crew: NO</li>"
+        "United Kingdom":"<ul> London Southend Airport (SEN)</ul><li><strong>Form is required to be distributed:</strong> NO (online)</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form and GENDEC for crew</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "lgw":{
-        "United Kingdom":"<ul> London Gatwick (LGW)</ul><li><strong>Form is required to be distributed: NO (online)</li><li><strong>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form and GENDEC for crew</li><li>Collection by Crew: NO</li>"
+        "United Kingdom":"<ul> London Gatwick (LGW)</ul><li><strong>Form is required to be distributed:</strong> NO (online)</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form and GENDEC for crew</li><li><strong>Collection by Crew:</strong> NO</li>"
     },
     "ltn":{
-        "United Kingdom":"<ul> London Luton Airport (LTN)</ul><li><strong>Form is required to be distributed: NO (online)</li><li><strong>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form and GENDEC for crew</li><li>Collection by Crew: NO</li>"
+        "United Kingdom":"<ul> London Luton Airport (LTN)</ul><li><strong>Form is required to be distributed:</strong> NO (online)</li><li><strong>Specifics:</strong> Public Health Passenger Locator Form</li><li><strong>Name of the form:</strong> Public Health Passenger Locator Form and GENDEC for crew</li><li><strong>Collection by Crew:</strong> NO</li>"
     }
 }   
