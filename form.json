@@ -152,26 +152,20 @@
     "bgy":{
         "Italy":"<ul> Bergamo Airport (BGY)</ul> <li>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
     },
-    "tse":{
-        "Kazakhstan":"<a href='http://astanaairport.com/'> Nursultan Nazarbayev International Airport (TSE)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/51d1671d47/astana/' data-label_1='NUR-SULTAN' data-label_2='WEATHER' data-theme='dark' >NUR-SULTAN WEATHER</a>"
-    },
-    "prn":{
-        "Kosovo":"<a href='http://www.airportpristina.com/'> Pristina International Airport (PRN)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/42d6621d17/prishtina/' data-label_1='PRIŞTINA' data-label_2='WEATHER' data-theme='dark' >PRIŞTINA WEATHER</a>"
-    },
     "rix":{
-        "Latvia":"<a href='http://www.riga-airport.com/en'> Riga Airport (RIX)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/56d9524d11/riga/' data-label_1='RIGA' data-label_2='WEATHER' data-theme='dark' >RIGA WEATHER</a>"
+        "Latvia":"<ul> Riga Airport (RIX)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Declaration on:'I declare that I have been informed that epidemiological security measures have been established in Latvia to limit spread of COVID-19 and I undertake to comply wih this measures.'</li><li>Name of the form: Declaration form (EN,RUS,LAT)</li><li>Collection by Crew: YES</li>"
     },
     "kun":{
-        "Lithuania":"<a href='https://www.kaunas-airport.lt/en/'> Kaunas Airport (KUN)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/54d9023d90/kaunas/' data-label_1='KAUNAS' data-label_2='WEATHER' data-theme='dark' >KAUNAS WEATHER</a>"
+        "Lithuania":"<ul> Kaunas Airport (KUN)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
     },
     "plq":{
-        "Lithuania":"<a href='https://www.palanga-airport.lt/en'> Palanga – Klaipeda Airport (PLQ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/55d9221d07/palanga/' data-label_1='PALANGA' data-label_2='WEATHER' data-theme='dark' >PALANGA WEATHER</a>"
+        "Lithuania":"<ul> Palanga – Klaipeda Airport (PLQ)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
     },
     "vno":{
-        "Lithuania":"<a href='https://www.vilnius-airport.lt/en/'> Vilnius Airport (VNO)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/54d6925d28/vilnius/' data-label_1='VILNIUS' data-label_2='WEATHER' data-theme='dark' >VILNIUS WEATHER</a>"
+        "Lithuania":"<ul> Vilnius Airport (VNO)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
     },
     "mla":{
-        "Malta":"<a href='https://www.maltairport.com/'> Malta Airport (MLA)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/35d9414d38/malta/' data-label_1='REPUBLIC OF MALTA' data-label_2='WEATHER' data-theme='dark' >REPUBLIC OF MALTA WEATHER</a>"
+        "Malta":"<ul> Malta Airport (MLA)</ul> <li>Form is required to be distributed: YES - GH will provide the forms</li><li>Specifics: PAX must fill in Public Health Passenger Locator Form and Public Health Travel Declaration Form. CC must remind PAX to fill in both forms</li><li>Name of the form: Public Health Passenger Locator Form & Public Health Travel Declaration Form</li><li>Collection by Crew: Declaration form shall be collected by CC</li>"
     },
     "kiv":{
         "Moldova":"<a href='http://www.airport.md/homepage-en/'> Chisinau Airport (KIV)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/47d0128d86/chisinau/' data-label_1='CHISINAU' data-label_2='WEATHER' data-theme='dark' >CHISINAU WEATHER</a>"
@@ -195,10 +189,10 @@
         "Netherlands":"<a href='https://www.maa.nl/nl/pagina-niet-gevonden'> Maastricht Airport (MST)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/50d855d69/maastricht/' data-label_1='MAASTRICHT' data-label_2='WEATHER' data-theme='dark' >MAASTRICHT WEATHER</a>"
     },
     "ohd":{
-        "North Macedonia":"<a href='http://ohd.airports.com.mk/default.aspx?ItemID=345'> Ohrid Airport (OHD)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/41d1220d80/ohrid/' data-label_1='OHRID' data-label_2='WEATHER' data-theme='dark' >OHRID WEATHER</a>"
+        "North Macedonia":"<ul> Ohrid Airport (OHD)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
     },
     "skp":{
-        "North Macedonia":"<a href='http://skp.airports.com.mk/default.aspx?ItemID=345'> Skopje Airport (SKP)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/42d0021d43/skopje/' data-label_1='SKOPJE' data-label_2='WEATHER' data-theme='dark' >SKOPJE WEATHER</a>"
+        "North Macedonia":"<ul> Skopje Airport (SKP)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
     },
     "aes":{
         "Norway":"<a href='https://avinor.no/en/airport/alesund-airport/'> Alesund Airport (AES)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/62d476d15/alesund/' data-label_1='ALESUND' data-label_2='WEATHER' data-theme='dark' >ALESUND WEATHER</a>"
