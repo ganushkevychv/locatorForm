@@ -3,40 +3,40 @@
         "Albania":"<ul>Tirana International Airport Nënë Tereza (TIA)</ul><li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
     },
     "szg":{
-        "Austria":"<ul>Salzburg International Airport (SZG)</ul><li>Form is required to be distributed: YES</li><li>Specifics: Austrian Covid Form on SZG flights( will be provided by the GH to the crew) and from PAX coming from Bosnia, Serbia and North Macedonia the Public Health Passenger Locator Form is required</li><li>Name of the form: Public Health Passenger Locator Form and Covid form</li><li>Collection by Crew: NO</li>"
+        "Austria":"<ul>Salzburg International Airport (SZG)</ul><li><b>Form is required to be distributed:</b> YES</li><li><b>Specifics:</b> Austrian Covid Form on SZG flights( will be provided by the GH to the crew) and from PAX coming from Bosnia, Serbia and North Macedonia the Public Health Passenger Locator Form is required</li><li><b>Name of the form:</b> Public Health Passenger Locator Form and Covid form</li><li>Collection by Crew:</b> NO</li>"
     },
     "bru":{
-        "Belgium":"<ul>Brussels Airport (BRU)</ul><li>Form is required to be distributed: YES - destribution for those who did not fill in online as backup process. Otherwise should be online</li><li>Specifics: Only for Belgium, available only in english (PAX who does not process the form should be denied boarding)</li><li>Name of the form: Belgium Passenger Locator Form</li><li>Collection by Crew: NO (ask ramp agent for confirmation)</li>"
+        "Belgium":"<ul>Brussels Airport (BRU)</ul><li><b>Form is required to be distributed:</b> YES - destribution for those who did not fill in online as backup process. Otherwise should be online</li><li><b>Specifics:</b> Only for Belgium, available only in english (PAX who does not process the form should be denied boarding)</li><li><b>Name of the form:</b> Belgium Passenger Locator Form</li><li><b>Collection by Crew:</b> YES - if the flight is from VIE, BUD, WAW, LJU</li>"
     },
     "crl":{
-        "Belgium":"Brussels Charleroi Airport (CRL)</ul><li>Form is required to be distributed: YES - destribution for those who did not fill in online as backup process. Otherwise should be online</li><li>Specifics: Only for Belgium, available only in english (PAX who does not process the form should be denied boarding)</li><li>Name of the form: Belgium Passenger Locator Form</li><li>Collection by Crew: NO (ask ramp agent for confirmation)</li>"
+        "Belgium":"Brussels Charleroi Airport (CRL)</ul><li><b>Form is required to be distributed:</b> YES - destribution for those who did not fill in online as backup process. Otherwise should be online</li><li><b>Specifics:</b> Only for Belgium, available only in english (PAX who does not process the form should be denied boarding)</li><li><b>Name of the form:</b> Belgium Passenger Locator Form</li><li><b>Collection by Crew:</b> YES - if the flight is from VIE, BUD, WAW, LJU</li>"
     },
     "boj":{
-        "Bulgaria":"<ul>Bourgas Airport (BOJ)</ul><li>Form is required to be distributed: Flights arriving from UK, Sweeden, Portugal, Belgium: NO </br> All other countries: YES</li><li>Specifics: Form shall be destributed to PAX who are not going under quarantine upon arrival</li><li>Name of the form: PAX data declaration</li><li>Collection by Crew: NO</li>"
+        "Bulgaria":"<ul>Bourgas Airport (BOJ)</ul><li<b>Form is required to be distributed:</b> Flights arriving from UK, Sweeden, Portugal, Belgium: NO </br> All other countries: YES</li><li><b>Specifics: Form shall be destributed to PAX who are not going under quarantine upon arrival</li><li><b>Name of the form: PAX data declaration</li><li><b>Collection by Crew:</b> NO</li>"
     },
     "sof":{
-        "Bulgaria":"<ul>Sofia Airport - Terminal 1 (SOF)</ul><li>Form is required to be distributed: Flights arriving from UK, Sweeden, Portugal, Belgium: NO </br> All other countries: YES</li><li>Specifics: Form shall be destributed to PAX who are not going under quarantine upon arrival</li><li>Name of the form: PAX data declaration</li><li>Collection by Crew: NO</li>"
+        "Bulgaria":"<ul>Sofia Airport - Terminal 1 (SOF)</ul><li><b>Form is required to be distributed:</b> Flights arriving from UK, Sweeden, Portugal, Belgium: NO </br> All other countries: YES</li><li><b>Specifics: Form shall be destributed to PAX who are not going under quarantine upon arrival</li><li><b>Name of the form:</b> PAX data declaration</li><li>Collection by Crew:</b> NO</li>"
     },
     "var":{
-        "Bulgaria":"<ul> Varna Airport (VAR)</ul> <li>Form is required to be distributed: Flights arriving from UK, Sweeden, Portugal, Belgium: NO </br> All other countries: YES</li><li>Specifics: Form shall be destributed to PAX who are not going under quarantine upon arrival</li><li>Name of the form: PAX data declaration</li><li>Collection by Crew: NO</li>"
+        "Bulgaria":"<ul> Varna Airport (VAR)</ul> <li>Form is required to be distributed:</b> Flights arriving from UK, Sweeden, Portugal, Belgium: NO </br> All other countries:</b> YES</li><li>Specifics: Form shall be destributed to PAX who are not going under quarantine upon arrival</li><li><b>Name of the form:</b> PAX data declaration</li><li>Collection by Crew:</b> NO</li>"
     },
     "osi":{
-        "Croatia":"<ul> Osijek (OSI)</ul><li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
+        "Croatia":"<ul> Osijek (OSI)</ul><li>Form is required to be distributed:</b> YES</li><li>Specifics:</b> Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew:</b> NO</li>"
     },
     "spu":{
-        "Croatia":"<ul> Split Airport (SPU)</ul><li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
+        "Croatia":"<ul> Split Airport (SPU)</ul><li>Form is required to be distributed:</b> YES</li><li>Specifics:</b> Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
     },
     "lca":{
-        "Cyprus":"<ul> Larnaca Airport (LCA)</ul> <li>Form is required to be distributed: NO(Online)</li><li>Specifics: All PAX travelling to Cyprus must have Cyprus Flight Pass compleated </li><li>Name of the form: Cyprus Flight Pass</li><li>Collection by Crew: NO</li>"
+        "Cyprus":"<ul> Larnaca Airport (LCA)</ul> <li>Form is required to be distributed:</b> NO(Online)</li><li>Specifics:</b> All PAX travelling to Cyprus must have Cyprus Flight Pass compleated </li><li>Name of the form: Cyprus Flight Pass</li><li>Collection by Crew: NO</li>"
     },
     "tku":{
-        "Finland":"<ul> Turku Airport (TKU)</ul> <li>Form is required to be distributed: NO</li><li>Specifics: N/A</li><li>Name of the form: N/A</li><li>Collection by Crew: NO</li>"
+        "Finland":"<ul> Turku Airport (TKU)</ul> <li>Form is required to be distributed:</b> NO</li><li>Specifics:</b> N/A</li><li>Name of the form:</b> N/A</li><li>Collection by Crew:</b> NO</li>"
     },
     "mlh":{
-        "France":"<ul> Mulhouse-Freiburg Airport (MLH)</ul> <li>Form is required to be distributed: NO</li><li>Specifics: N/A</li><li>Name of the form: From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li>Collection by Crew: NO</li>"   
+        "France":"<ul> Mulhouse-Freiburg Airport (MLH)</ul> <li>Form is required to be distributed:</b> NO</li><li>Specifics:</b> N/A</li><li>Name of the form: From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li>Collection by Crew:</b> NO</li>"   
     },
     "bod":{
-        "France":"<ul> Bordeaux–Mérignac Airport (BOD)</ul> <li>Form is required to be distributed: NO</li><li>Specifics: N/A</li><li>Name of the form: From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li>Collection by Crew: NO</li>"
+        "France":"<ul> Bordeaux–Mérignac Airport (BOD)</ul> <li>Form is required to be distributed:</b> NO</li><li>Specifics:</b> N/A</li><li>Name of the form: From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li>Collection by Crew:</b> NO</li>"
     },
     "gnb":{
         "France":"<ul> Grenoble Airport (GNB)</ul> <li>Form is required to be distributed: NO</li><li>Specifics: N/A</li><li>Name of the form: From non EU a special form is needed (Attestation De placement), it will be provided by GH with instruction to collect or not to collect</li><li>Collection by Crew: NO</li>"
