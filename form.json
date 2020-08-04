@@ -107,56 +107,50 @@
     "kef":{
         "Iceland":"<ul> Reykjavik Airport (KEF)</ul> <li>Form is required to be distributed: NO</li><li>Specifics: Public Health Passenger Locator Form (Online)</li><li>Name of the form: Public Health Passenger Locator Form (Online)</li><li>Collection by Crew: NO</li>"
     },
-    "etm":{
-        "Israel":"<a href='http://www.ramon-airport.com'> Ramon Airport (ETM)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/29d5634d95/eilat/' data-label_1='EILAT' data-label_2='WEATHER' data-theme='dark' >EILAT WEATHER</a>"
-    },
-    "tlv":{
-        "Israel":"<a href='https://www.iaa.gov.il/en-US/airports/BenGurion/Pages/default.aspx'> Tel-Aviv Ben Gurion (TLV)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/32d0934d78/tel-aviv-yafo/' data-label_1='TEL AVIV' data-label_2='WEATHER' data-theme='dark' >TEL AVIV WEATHER</a>"
-    },
     "cta":{
-        "Italy":"<a href='http://www.aeroporto.catania.it'> Catania Fontanarossa Airport (CTA)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/37d6114d94/province-of-catania/' data-label_1='CATANIA' data-label_2='WEATHER' data-theme='dark' >CATANIA WEATHER</a>"
+        "Italy":"<ul> Catania Fontanarossa Airport (CTA)</ul> <li>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
     },
     "aho":{
-        "Italy":"<a href='https://www.aeroportodialghero.it/'> Alghero Airport (AHO)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/40d568d32/alghero/' data-label_1='ALGHERO' data-label_2='WEATHER' data-theme='dark' >ALGHERO WEATHER</a>"
+        "Italy":"<ul> Alghero Airport (AHO)</ul> <li>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
     },
     "bri":{
-        "Italy":"<a href='https://www.aeroportidipuglia.it/'> Bari Airport (BRI)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/41d1216d87/bari/' data-label_1='BARI' data-label_2='WEATHER' data-theme='dark' >BARI WEATHER</a>"
+        "Italy":"<ul> Bari Airport (BRI)</ul> <li>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
     },
     "blq":{
-        "Italy":"<a href='https://www.bologna-airport.it/en/welcome-to-bologna-airport/?idC=62175'> Bologna Airport (BLQ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/44d5011d30/metropolitan-city-of-bologna/' data-label_1='BOLOGNA' data-label_2='WEATHER' data-theme='dark' >BOLOGNA WEATHER</a>"
+        "Italy":"<ul> Bologna Airport (BLQ)</ul> <li>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
     },
     "suf":{
-        "Italy":"<a href='https://lameziaairport.it/'> Lamezia Terme (SUF)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/38d9616d31/lamezia-terme/' data-label_1='LAMEZIA TERME' data-label_2='WEATHER' data-theme='dark' >LAMEZIA TERME WEATHER</a>"
+        "Italy":"<ul> Lamezia Terme (SUF)</ul> <li>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
     },
     "mxp":{
-        "Italy":"<a href='https://www.milanomalpensa-airport.com/en/'> Milan Malpensa Airport - Terminal 1 (MXP)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/45d469d19/milan/' data-label_1='MILANO' data-label_2='WEATHER' data-theme='dark' >MILANO WEATHER</a>"
+        "Italy":"<ul> Milan Malpensa Airport - Terminal 1 (MXP)</ul> <li>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
     },
     "nap":{
-        "Italy":"<a href='http://www.aeroportodinapoli.it'> Naples Airport (NAP)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/40d8514d27/naples/' data-label_1='NAPLES' data-label_2='WEATHER' data-theme='dark' >NAPLES WEATHER</a>"
+        "Italy":"<ul> Naples Airport (NAP)</ul> <li>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
     },
     "peg":{
-        "Italy":"<a href='https://www.airport.umbria.it/en/home-en'> Perugia Airport (PEG)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/42d9412d62/province-of-perugia/' data-label_1='PERUGIA' data-label_2='WEATHER' data-theme='dark' >PERUGIA WEATHER</a>"
+        "Italy":"<ul> Perugia Airport (PEG)</ul> <li>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
     },
     "psr":{
-        "Italy":"<a href='http://www.abruzzoairport.com'> Pescara Airport (PSR)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/42d3613d96/province-of-pescara/' data-label_1='PESCARA' data-label_2='WEATHER' data-theme='dark' >PESCARA WEATHER</a>"
+        "Italy":"<ul> Pescara Airport (PSR)</ul> <li>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
     },
     "psa":{
-        "Italy":"<a href='https://www.pisa-airport.com/en/'> Pisa Airport (PSA)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/43d7210d40/province-of-pisa/' data-label_1='PISA' data-label_2='WEATHER' data-theme='dark' >PISA WEATHER</a>"
+        "Italy":"<ul> Pisa Airport (PSA)</ul> <li>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
     },
     "fco":{
-        "Italy":"<a href='http://www.adr.it/web/aeroporti-di-roma-en-/pax-fco-fiumicino'> Rome Fiumicino Airport - Terminal 2 (FCO)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/41d9012d50/rome/' data-label_1='ROME' data-label_2='WEATHER' data-theme='dark' >ROME WEATHER</a>"
+        "Italy":"<ul> Rome Fiumicino Airport - Terminal 2 (FCO)</ul> <li>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
     },
     "trn":{
-        "Italy":"<a href='https://www.aeroportoditorino.it/en'> Turin Airport (TRN)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/45d077d69/turin/' data-label_1='TURIN' data-label_2='WEATHER' data-theme='dark' >TURIN WEATHER</a>"
+        "Italy":"<ul> Turin Airport (TRN)</ul> <li>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
     },
     "tsf":{
-        "Italy":"<a href='https://www.trevisoairport.it/'> Venice Treviso Airport (TSF)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/45d4912d42/metropolitan-city-of-venice/' data-label_1='VENICE' data-label_2='WEATHER' data-theme='dark' >VENICE WEATHER</a>"
+        "Italy":"<ul> Venice Treviso Airport (TSF)</ul> <li>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
     },
     "vrn":{
-        "Italy":"<a href='https://www.aeroportoverona.it/en/'> Verona Airport (VRN)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/45d4410d99/verona/' data-label_1='VERONA' data-label_2='WEATHER' data-theme='dark' >VERONA WEATHER</a>"
+        "Italy":"<ul> Verona Airport (VRN)</ul> <li>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
     },
     "bgy":{
-        "Italy":"<a href='https://www.airport-bergamo.com/'> Bergamo Airport (BGY)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/45d869d88/province-of-bergamo/' data-label_1='BERGAMO' data-label_2='WEATHER' data-theme='dark' >BERGAMO WEATHER</a>"
+        "Italy":"<ul> Bergamo Airport (BGY)</ul> <li>Form is required to be distributed: YES - from Bulgaria and Romania and from all non EU countries</li><li>Specifics: Statement for the purpose of entering Italy</li><li>Name of the form: Statement for the purpose of entering Italy</li><li>Collection by Crew: Ask GH</li>"
     },
     "tse":{
         "Kazakhstan":"<a href='http://astanaairport.com/'> Nursultan Nazarbayev International Airport (TSE)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/51d1671d47/astana/' data-label_1='NUR-SULTAN' data-label_2='WEATHER' data-theme='dark' >NUR-SULTAN WEATHER</a>"
