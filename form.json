@@ -3,7 +3,7 @@
         "Albania":"<ul>Tirana International Airport Nënë Tereza (TIA)</ul><li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
     },
     "szg":{
-        "Austria":"<ul>Salzburg International Airport (SZG)</ul><li style='font-weight: bold;'>Form is required to be distributed: YES</li><li>Specifics: Austrian Covid Form on SZG flights( will be provided by the GH to the crew) and from PAX coming from Bosnia, Serbia and North Macedonia the Public Health Passenger Locator Form is required</li><li>Name of the form: Public Health Passenger Locator Form and Covid form</li><li>Collection by Crew: NO</li>"
+        "Austria":"<ul>Salzburg International Airport (SZG)</ul><li><strong>Form is required to be distributed:</strong> YES</li><li>Specifics: Austrian Covid Form on SZG flights( will be provided by the GH to the crew) and from PAX coming from Bosnia, Serbia and North Macedonia the Public Health Passenger Locator Form is required</li><li>Name of the form: Public Health Passenger Locator Form and Covid form</li><li>Collection by Crew: NO</li>"
     },
     "bru":{
         "Belgium":"<ul>Brussels Airport (BRU)</ul><li>Form is required to be distributed: YES - destribution for those who did not fill in online as backup process. Otherwise should be online</li><li>Specifics: Only for Belgium, available only in english (PAX who does not process the form should be denied boarding)</li><li>Name of the form: Belgium Passenger Locator Form</li><li>Collection by Crew: YES - if the flight is from VIE, BUD, WAW, LJU</li>"
