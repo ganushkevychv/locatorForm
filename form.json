@@ -168,25 +168,16 @@
         "Malta":"<ul> Malta Airport (MLA)</ul> <li>Form is required to be distributed: YES - GH will provide the forms</li><li>Specifics: PAX must fill in Public Health Passenger Locator Form and Public Health Travel Declaration Form. CC must remind PAX to fill in both forms</li><li>Name of the form: Public Health Passenger Locator Form & Public Health Travel Declaration Form</li><li>Collection by Crew: Declaration form shall be collected by CC</li>"
     },
     "kiv":{
-        "Moldova":"<a href='http://www.airport.md/homepage-en/'> Chisinau Airport (KIV)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/47d0128d86/chisinau/' data-label_1='CHISINAU' data-label_2='WEATHER' data-theme='dark' >CHISINAU WEATHER</a>"
-    },
-    "tgd":{
-        "Montenegro":"<a href='http://www.montenegroairports.com/eng/'> Podgorica Airport (TGD)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/42d4319d26/podgorica/' data-label_1='PODGORICA' data-label_2='WEATHER' data-theme='dark' >PODGORICA WEATHER</a>"
-    },
-    "aga":{
-        "Morocco":"<a href='http://www.agadir-airport.com/en/index.php'> Agadir Al Massira Airport (AGA)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/30d43n9d60/agadir/' data-label_1='AGADIR' data-label_2='WEATHER' data-theme='dark' >AGADIR WEATHER</a>"
-    },
-    "rak":{
-        "Morocco":"<a href='https://www.marrakesh-airport.com/'> Menara Airport (RAK)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/31d64n8d06/menara/' data-label_1='MENARA' data-label_2='WEATHER' data-theme='dark' >MENARA WEATHER</a>"
+        "Moldova":"<ul> Chisinau Airport (KIV)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
     },
     "ein":{
-        "Netherlands":"<a href='https://www.eindhovenairport.nl/en'> Eindhoven Airport (EIN)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/51d445d47/eindhoven/' data-label_1='EINDHOVEN' data-label_2='WEATHER' data-theme='dark' >EINDHOVEN WEATHER</a>"
+        "Netherlands":"<ul> Eindhoven Airport (EIN)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Health Screening Form</li><li>Name of the form: Health Screening Form</li><li>Collection by Crew: NO</li>"
     },
     "grq":{
-        "Netherlands":"<a href='https://www.groningenairport.nl/en/'> Groningen Airport (GRQ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/53d226d57/groningen/' data-label_1='GRONINGEN' data-label_2='WEATHER' data-theme='dark' >GRONINGEN WEATHER</a>"
+        "Netherlands":"<ul> Groningen Airport (GRQ)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Health Screening Form</li><li>Name of the form: Health Screening Form</li><li>Collection by Crew: NO</li>"
     },
     "mst":{
-        "Netherlands":"<a href='https://www.maa.nl/nl/pagina-niet-gevonden'> Maastricht Airport (MST)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/50d855d69/maastricht/' data-label_1='MAASTRICHT' data-label_2='WEATHER' data-theme='dark' >MAASTRICHT WEATHER</a>"
+        "Netherlands":"<ul> Maastricht Airport (MST)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Health Screening Form</li><li>Name of the form: Health Screening Form</li><li>Collection by Crew: NO</li>"
     },
     "ohd":{
         "North Macedonia":"<ul> Ohrid Airport (OHD)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
@@ -194,62 +185,32 @@
     "skp":{
         "North Macedonia":"<ul> Skopje Airport (SKP)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: NO</li>"
     },
-    "aes":{
-        "Norway":"<a href='https://avinor.no/en/airport/alesund-airport/'> Alesund Airport (AES)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/62d476d15/alesund/' data-label_1='ALESUND' data-label_2='WEATHER' data-theme='dark' >ALESUND WEATHER</a>"
-    },
-    "bgo":{
-        "Norway":"<a href='https://avinor.no/en/airport/bergen-airport/'> Bergen Airport (BGO)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/60d395d32/bergen/' data-label_1='BERGEN' data-label_2='WEATHER' data-theme='dark' >BERGEN WEATHER</a>"
-    },
-    "boo":{
-        "Norway":"<a href='https://avinor.no/en/airport/bodo-airport/'> Bodø (BOO)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/67d2814d40/bodo/' data-label_1='BODØ' data-label_2='WEATHER' data-theme='dark' >BODØ WEATHER</a>"
-    },
-    "hau":{
-        "Norway":"<a href='https://flyhau.no/en/'> Haugesund Airport (HAU)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/59d415d27/haugesund/' data-label_1='HAUGESUND' data-label_2='WEATHER' data-theme='dark' >HAUGESUND WEATHER</a>"
-    },
-    "mol":{
-        "Norway":"<a href='https://avinor.no/en/airport/molde-airport/'> Molde Airport (MOL)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/62d747d16/molde/' data-label_1='MOLDE' data-label_2='WEATHER' data-theme='dark' >MOLDE WEATHER</a>"
-    },
-    "osl":{
-        "Norway":"<a href='https://avinor.no/en/airport/oslo-airport/'> Oslo airport (OSL)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/59d9110d75/oslo/' data-label_1='OSLO' data-label_2='WEATHER' data-theme='dark' >OSLO WEATHER</a>"
-    },
-    "trf":{
-        "Norway":"<a href='https://www.torp.no/'> Oslo Sandefjord Torp Airport (TRF)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/59d9110d75/oslo/' data-label_1='OSLO' data-label_2='WEATHER' data-theme='dark' >OSLO WEATHER</a>"
-    },
-    "svg":{
-        "Norway":"<a href='https://avinor.no/en/airport/stavanger-airport/'> Stavanger Airport (SVG)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/58d975d73/stavanger/' data-label_1='STAVANGER' data-label_2='WEATHER' data-theme='dark' >STAVANGER WEATHER</a>"
-    },
-    "tos":{
-        "Norway":"<a href='https://avinor.no/en/airport/tromso-airport/'> Tromso Airport (TOS)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/69d6518d96/tromso/' data-label_1='TROMSØ' data-label_2='WEATHER' data-theme='dark' >TROMSØ WEATHER</a>"
-    },
-    "trd":{
-        "Norway":"<a href='https://avinor.no/en/airport/trondheim-airport/'> Trondheim Airport (TRD)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/63d4310d40/trondheim/' data-label_1='TRONDHEIM' data-label_2='WEATHER' data-theme='dark' >TRONDHEIM WEATHER</a>"
-    },
     "gdn":{
-        "Poland":"<a href='https://www.airport.gdansk.pl/'> Gdansk Airport (GDN)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/54d3518d65/gdansk/' data-label_1='GDAŃSK' data-label_2='WEATHER' data-theme='dark' >GDAŃSK WEATHER</a>"
+        "Poland":"<ul> Gdansk Airport (GDN)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
     },
     "ktw":{
-        "Poland":"<a href='https://www.katowice-airport.com/en'> Katowice Airport (KTW)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/50d2619d02/katowice/' data-label_1='KATOWICE' data-label_2='WEATHER' data-theme='dark' >KATOWICE WEATHER</a>"
+        "Poland":"<ul> Katowice Airport (KTW)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
     },
     "krk":{
-        "Poland":"<a href='http://krakowairport.pl/blog/en/category/podroze/zoom/'> Krakow Airport (KRK)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/50d0619d94/krakow/' data-label_1='KRAKÓW' data-label_2='WEATHER' data-theme='dark' >KRAKÓW WEATHER</a>"
+        "Poland":"<ul> Krakow Airport (KRK)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
     },
     "luz":{
-        "Poland":"<a href='https://www.airport.lublin.pl/en/'> Lublin Airport (LUZ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/51d2522d57/lublin/' data-label_1='LUBLIN' data-label_2='WEATHER' data-theme='dark' >LUBLIN WEATHER</a>"
+        "Poland":"<ul> Lublin Airport (LUZ)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
     },
     "szy":{
-        "Poland":"<a href='http://mazuryairport.pl/en/'> Olsztyn-Mazury Airport (SZY)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/53d7820d48/olsztyn/' data-label_1='OLSZTYN' data-label_2='WEATHER' data-theme='dark' >OLSZTYN WEATHER</a>"
+        "Poland":"<ul> Olsztyn-Mazury Airport (SZY)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
     },
     "poz":{
-        "Poland":"<a href='https://www.airport-poznan.com.pl/en/'> Poznan Airport (POZ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/52d4116d93/poznan/' data-label_1='POZNAŃ' data-label_2='WEATHER' data-theme='dark' >POZNAŃ WEATHER</a>"
+        "Poland":"<ul> Poznan Airport (POZ)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
     },
     "szz":{
-        "Poland":"<a href='http://www.airport.com.pl/en/'> Szczecin Airport (SZZ)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/53d4314d55/szczecin/' data-label_1='SZCZECIN' data-label_2='WEATHER' data-theme='dark' >SZCZECIN WEATHER</a>"
+        "Poland":"<ul> Szczecin Airport (SZZ)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
     },
     "waw":{
-        "Poland":"<a href='https://www.lotnisko-chopina.pl/?lang=en'> Warsaw Chopin Airport (WAW)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/52d2321d01/warsaw/' data-label_1='WARSAW' data-label_2='WEATHER' data-theme='dark' >WARSAW WEATHER</a>"
+        "Poland":"<ul> Warsaw Chopin Airport (WAW)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
     },
     "wro":{
-        "Poland":"<a href='http://airport.wroclaw.pl/en/'> Wroclaw Airport (WRO)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/51d1117d04/wroclaw/' data-label_1='WROCŁAW' data-label_2='WEATHER' data-theme='dark' >WROCŁAW WEATHER</a>"
+        "Poland":"<ul> Wroclaw Airport (WRO)</ul> <li>Form is required to be distributed: YES</li><li>Specifics: Public Health Passenger Locator Form</li><li>Name of the form: Public Health Passenger Locator Form</li><li>Collection by Crew: YES</li>"
     },
     "fao":{
         "Portugal":"<a href='https://www.aeroportofaro.pt/en/fao/home'> Faro (FAO)</a> <a class='weatherwidget-io' href='https://forecast7.com/en/37d02n7d93/faro/' data-label_1='FARO' data-label_2='WEATHER' data-theme='dark' >FARO WEATHER</a>"
